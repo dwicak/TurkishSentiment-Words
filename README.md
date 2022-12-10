@@ -7,6 +7,6 @@ These TurkishSentiment-Words are taken from the [turkish_sentiliteralnet.xml](ht
 
 How to use positive and negative words list in NodeXL:
 1. In the NodeXL, go to Graph Metrics -> Word & Word Pairs and you can edit the "Sentiment Analysis" list.
-2. Put the content positive.csv into -> List 1: Positive.
-3. Put the content negative.csv into -> List 2: Negative.
+2. Put the content of the word column from positive.csv into -> List 1: Positive.
+3. Put the content of the word column from negative.csv into -> List 2: Negative.
 4. Then click OK
