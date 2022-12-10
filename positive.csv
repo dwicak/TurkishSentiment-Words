@@ -1,0 +1,4336 @@
+word,sentiment
+sağlıklı,positive
+müsaade etme,positive
+iyiliği dokunmak,positive
+meşkûr,positive
+pozitif elektrik,positive
+müreffeh,positive
+kâfi,positive
+uygarlaşma,positive
+boş konuşmamak,positive
+tertip etmek,positive
+kanadı altına almak,positive
+isteklendirmek,positive
+gönlü zengin,positive
+kerliferli,positive
+ensesi kalın,positive
+şeref konuğu,positive
+hoşgörülülük,positive
+arkalı,positive
+sulhçu,positive
+yağ çekmek,positive
+tensikat,positive
+şataf,positive
+tereke,positive
+tartılı,positive
+hissiselim,positive
+müstakim,positive
+durumdan ders çıkarmak,positive
+bayındırlık,positive
+iyi hâl,positive
+palas,positive
+korte,positive
+baba,positive
+olabilmek,positive
+pir ol,positive
+baş gelmek,positive
+iyi gün,positive
+el vermek,positive
+taşı toprağı altın olmak,positive
+garazsız ivazsız,positive
+ortak payda,positive
+hayat adamı,positive
+coşkulanmak,positive
+suçsuz,positive
+gönlü yüce,positive
+istikrarlıca,positive
+dünya görmüş,positive
+haz almak,positive
+kalp kazanmak,positive
+azman,positive
+olanak sağlamak,positive
+dereceye girmek,positive
+gülmekten yarılmak,positive
+hüsnühal,positive
+benzi kanlanmak,positive
+mesutça,positive
+efsane olmak,positive
+istikrar,positive
+kadirşinaslık,positive
+itidal,positive
+terfih,positive
+nikbinlik,positive
+mutabık olmak,positive
+dikkatli,positive
+yorgunluğunu çıkarmak,positive
+dudak ısırmak,positive
+alplık,positive
+katışıksız,positive
+teşci etmek,positive
+fevkalâde,positive
+ince düşünceli,positive
+sözünün eri,positive
+sıkıntısız,positive
+aşılamak,positive
+saftaron,positive
+ilgi odağı olmak,positive
+ağızda dağılmak,positive
+varlık göstermek,positive
+civelek,positive
+aşı yapılmak,positive
+kendini temize çıkarmak,positive
+saygı duymak,positive
+sevabına,positive
+cengâver,positive
+elinden tutmak,positive
+sterilize,positive
+gözü okşamak,positive
+sunu,positive
+fedakârca,positive
+zekilik,positive
+kanat germek,positive
+geliştirme,positive
+lütufkârane,positive
+ad,positive
+ak,positive
+haklı bulmak,positive
+mağfiret,positive
+içtikleri su ayrı gitmemek,positive
+er,positive
+barışık olmak,positive
+gülümseme,positive
+mahviyet,positive
+özsaygı,positive
+şıklaşmak,positive
+yakınlaşmak,positive
+ihtiram,positive
+dinçleşmek,positive
+riyasız,positive
+oh,positive
+pek gözlü,positive
+yerli yerinde olmak,positive
+gayretkeş,positive
+ümitli,positive
+hayır dua almak,positive
+katışıksızlık,positive
+uz,positive
+konforlu,positive
+nazik,positive
+bakımlı,positive
+canciğer,positive
+kuvvet,positive
+gençleşmek,positive
+sempati,positive
+açılmak,positive
+itibar,positive
+sibakusiyak,positive
+yolu açık olmak,positive
+hakikatli,positive
+özveren,positive
+tatlı tatlı,positive
+beceri,positive
+şekerim,positive
+soğukkanlı,positive
+çakı gibi,positive
+kusursuz,positive
+yüz aklığı,positive
+terfian,positive
+mükemmellik,positive
+afiyette olmak,positive
+çalışkan,positive
+başı göğe ermek,positive
+fiske dokundurmamak,positive
+dost canlısı,positive
+mangal gibi yüreği olmak,positive
+tedip,positive
+tıkır tıkır,positive
+muteber,positive
+babacanca,positive
+el üstünde tutmak,positive
+makul olmak,positive
+akıcı,positive
+saymak,positive
+enine boyuna,positive
+hayran olmak,positive
+göğsünü kabartmak,positive
+esindirmek,positive
+öngörü,positive
+göklere uçmak,positive
+tensik etmek,positive
+gösterişli,positive
+kolesterolsüz,positive
+su gibi bilmek,positive
+şenlenmek,positive
+arılaşmak,positive
+zatıaliniz,positive
+berk,positive
+kafası düzelmek,positive
+hürlük,positive
+düğün,positive
+heveslendirmek,positive
+evlenme,positive
+yaraştırmak,positive
+üstün zeka,positive
+müjde vermek,positive
+tuzu olmak,positive
+güçlüğü yenmek,positive
+üstün zekâ,positive
+filiz gibi,positive
+on parmağında on marifet olmak,positive
+hava değişimi,positive
+kutlama,positive
+terfien,positive
+devletli,positive
+keyif almak,positive
+kavrayışlı,positive
+civanmert,positive
+bereketli olsun,positive
+semih,positive
+afiyet afiyet şeker olsun,positive
+nazikâne,positive
+sofrası açık,positive
+nikbin,positive
+badiresiz,positive
+övündürücü,positive
+hazırlıklı,positive
+fırsat düşmek,positive
+şakrak,positive
+kendini toparlamak,positive
+münezzeh,positive
+galebe,positive
+iyi söylemek,positive
+yoluna koyulmak,positive
+cesaret vermek,positive
+kıvracık,positive
+tutunacak dalı olmak,positive
+fedakârlık yapmak,positive
+genişlemek,positive
+methiye düzmek,positive
+hoşlanma,positive
+flört,positive
+bezemek,positive
+başını dinlemek,positive
+terbiyeli,positive
+iri yapılı,positive
+cennet,positive
+mutedil,positive
+kendine saygı,positive
+kafası yerine gelmek,positive
+beşuş,positive
+sağlıcakla kal,positive
+talih kuşu,positive
+kuvvetlenmek,positive
+mazhariyet,positive
+giyinip kuşanmak,positive
+selek,positive
+örnek,positive
+karagöz oynatmak,positive
+canı pek,positive
+teşekkür,positive
+selim,positive
+zinde kuvvet,positive
+işler açılmak,positive
+kafi,positive
+tekâmül etmek,positive
+gönüllü çalışan,positive
+kazasız belasız,positive
+saygılıca,positive
+layık görmek,positive
+kurtarmak,positive
+iyi etmek,positive
+ehlidil,positive
+dakikane,positive
+iyi niyet,positive
+selis,positive
+neşelenmek,positive
+temayüz etmek,positive
+arkadaşlık etmek,positive
+güllük gülistanlık,positive
+müfit,positive
+bayram etmek,positive
+temizlik,positive
+başarış,positive
+öz,positive
+safdilli,positive
+şatafatlı,positive
+onat,positive
+mazur görmek,positive
+ümit vermek,positive
+okkalamak,positive
+aşmak,positive
+tam üstüne basmak,positive
+gözünden kıskanmak,positive
+ferahlanmak,positive
+kişmiri,positive
+matematiksel,positive
+o kadar,positive
+müsterih,positive
+gönül almak,positive
+biçimli,positive
+mikropsuz,positive
+avundurmak,positive
+başarım,positive
+iyi yürekli,positive
+fark atmak,positive
+onum,positive
+mütenebbih,positive
+onur,positive
+tamamı tamamına,positive
+bayram,positive
+kalbi temiz,positive
+ev sahipliği yapmak,positive
+anlaşmak,positive
+gösteri,positive
+mutluluk,positive
+esrimek,positive
+şayeste,positive
+edepli edepli,positive
+şanlı şöhretli,positive
+sevecen,positive
+koşturmak,positive
+bahtı açılmak,positive
+solidarist,positive
+delici,positive
+doğrulamak,positive
+centilmence,positive
+bin yaşa,positive
+ömürler olsun,positive
+tebdilihava,positive
+beceriklilik,positive
+gününügün etmek,positive
+gözümün nuru,positive
+özveri,positive
+manzaralı,positive
+hürmet,positive
+güle güle,positive
+haketmek,positive
+hayatının baharında olmak,positive
+taş çıkartmak,positive
+rahat,positive
+münasip bulmak,positive
+ağırbaşlılık,positive
+cennetmekân,positive
+ustalık,positive
+mutemet,positive
+can sohbeti,positive
+kalbi ferahlamak,positive
+helallik vermek,positive
+tetabuk,positive
+günü gününe,positive
+spesiyal,positive
+umutluluk,positive
+hatır saymak,positive
+aklı yatmak,positive
+sızıltısız,positive
+tesahup,positive
+imanlı,positive
+ayağına üşenmemek,positive
+duyarlıklı,positive
+etkilenmek,positive
+geçerli,positive
+vikaye etmek,positive
+eğitim görmek,positive
+terfih etmek,positive
+tekin,positive
+yolunda gitmek,positive
+rakik,positive
+teehhül,positive
+ıstırapsız,positive
+çöpsüz üzüm,positive
+hayır işlemek,positive
+teberrüken,positive
+eli kalem tutmak,positive
+teminat altına almak,positive
+basiret,positive
+hazırlıklı olmak,positive
+saygın,positive
+gönül uğrusu,positive
+hibe etmek,positive
+motivasyon,positive
+güzellik,positive
+açık ellilik,positive
+karizma,positive
+tamir etmek,positive
+mumdirek,positive
+tahsil görmek,positive
+ana kucağı,positive
+bir dediği iki olmamak,positive
+okşayıcı,positive
+arkadaşlık etme,positive
+kınalı kuzu,positive
+bayram hediyesi,positive
+istifade etmek,positive
+vasıflı,positive
+uğuru açık,positive
+deryadil,positive
+bütünlük,positive
+dertsizlik,positive
+çağı yakalamak,positive
+kendini temize çıkartmak,positive
+liyakat sahibi,positive
+ferahlamak,positive
+kardeşlik etmek,positive
+pırıldamak,positive
+eline çabuk,positive
+tanzim,positive
+şeref vermek,positive
+onurlu,positive
+lütufkarane,positive
+yurtsever,positive
+eli genişlemek,positive
+oran,positive
+dünyanın tadını çıkarmak,positive
+maaş zammı,positive
+ağız tadı,positive
+mutluluk tablosu,positive
+eksiksiz,positive
+tansık,positive
+ağabeylik yapmak,positive
+bir içim su,positive
+muradına ermek,positive
+merdane,positive
+keyfine bakmak,positive
+manalıca,positive
+müjde,positive
+problem çözme,positive
+aklı başında olma,positive
+öfkesiz,positive
+esirgememek,positive
+ilahî,positive
+beğeniliş,positive
+başı önünde,positive
+ağzından bal damlamak,positive
+şîrin,positive
+yeşil ışık yakmak,positive
+temin,positive
+kanı kaynamak,positive
+temiz,positive
+gözleri parlamak,positive
+ilahi,positive
+şenlikli,positive
+elzem,positive
+mahzursuz,positive
+saflaşmak,positive
+can gelmek,positive
+açık kalpli,positive
+tamircilik,positive
+pohpohlamak,positive
+kurdunu kırmak,positive
+bir dediğini iki etmemek,positive
+iyilik perisi,positive
+çıtır pıtır,positive
+kaprissiz,positive
+yardımsever,positive
+altın çağını yaşamak,positive
+heveslendirme,positive
+erdemli,positive
+iş görmek,positive
+beğenilir,positive
+eli ayağı olmak,positive
+mutantan,positive
+ümit,positive
+masumcasına,positive
+analjezik,positive
+danişment,positive
+tarafsızlık,positive
+kusura bakmamak,positive
+sena etmek,positive
+fesini havaya atmak,positive
+mucize göstermek,positive
+kıpırdak,positive
+yağma gitmek,positive
+gönül açmak,positive
+görmüş geçirmiş,positive
+muktedir olmak,positive
+minnettarane,positive
+secde etmek,positive
+böke,positive
+inşirah bulmak,positive
+suna gibi,positive
+önlem,positive
+akıl kutusu,positive
+lezzetlenmek,positive
+gönlü takılmak,positive
+rahat rahat,positive
+kalp fethetmek,positive
+ahbap olmak,positive
+kulağı kesik,positive
+yetingen,positive
+oflaz,positive
+kendine gelmek,positive
+sancısız,positive
+taze,positive
+halk adamı,positive
+cennetmekan,positive
+fırtına atlatmak,positive
+aracı,positive
+serin,positive
+ulviyet,positive
+fıkra anlatmak,positive
+onur konuğu,positive
+pırıl pırıl,positive
+kılgılı,positive
+hoşlanmak,positive
+şayan,positive
+hüsnükabul,positive
+tasdiklemek,positive
+sevimlileşmek,positive
+canıgönülden,positive
+hüsnühâl,positive
+yüzüne bakmaya kıyamamak,positive
+hayran kalmak,positive
+vefalı,positive
+kolunda altın bileziği olmak,positive
+vaadinde durmak,positive
+itimat telkin etmek,positive
+"büyüklerin ellerinden , küçüklerin gözlerinden öpmek",positive
+sevap,positive
+işi sağlama almak,positive
+şatır,positive
+misafirperverlik,positive
+değerlendirmek,positive
+sevda,positive
+sevinme,positive
+faydası dokunmak,positive
+otantik,positive
+mantıklıca,positive
+eteğini toplamak,positive
+takatli,positive
+hazzını çıkarmak,positive
+münevver,positive
+sevimli,positive
+tevcih etmek,positive
+öpücük,positive
+uyandırmak,positive
+sakin sakin,positive
+tavazzuh,positive
+kuruntusuzluk,positive
+harikulade,positive
+allame,positive
+taaşşuk,positive
+frapan,positive
+safçasına,positive
+nonoş,positive
+keyiflenmek,positive
+nazikane,positive
+ünsiyet peyda etmek,positive
+istiğna,positive
+uzlaşmalı,positive
+büyüleyici,positive
+baysal,positive
+temiz yüreklilik,positive
+iyice,positive
+tabiî,positive
+doğrulmak,positive
+tabii,positive
+şeref misafiri,positive
+gönlünü çelmek,positive
+muhabbet,positive
+eksik olmamak,positive
+tavına getirmek,positive
+tesahup etmek,positive
+kanaatli,positive
+zevkli gelmek,positive
+telâkki,positive
+paralı,positive
+uğurluk,positive
+hüsnü kabul göstermek,positive
+yerini doldurmak,positive
+tasdik etmek,positive
+modernleşme,positive
+sağduyu,positive
+gözü kesmek,positive
+şevke gelmek,positive
+uzlaşmacı,positive
+müreffehen,positive
+âdil,positive
+ileri,positive
+tıkırı yolunda gitmek,positive
+gününü gün etmek,positive
+kanaat etmek,positive
+derdine derman olmak,positive
+nükte,positive
+olumlu fiil,positive
+adam sırasına girmek,positive
+rahatlama,positive
+nazikçe,positive
+hasbihal,positive
+salah bulmak,positive
+altın yürekli olmak,positive
+bayram günü,positive
+renklenmek,positive
+ılımlı,positive
+şefaat,positive
+zevkine gitmek,positive
+yarlıgama,positive
+helal olmak,positive
+can feda,positive
+sakin,positive
+medeniyet,positive
+manzum,positive
+tatmin olmak,positive
+şölen çekmek,positive
+yol katetmek,positive
+onurlanma,positive
+düzenlemek,positive
+kendi hâlinde,positive
+iş bilmek,positive
+aydınlık,positive
+kahraman,positive
+tadat,positive
+safça,positive
+kol kanat olmak,positive
+gayret vermek,positive
+isabet,positive
+sadık,positive
+delikanlıca,positive
+tahliye etmek,positive
+klas,positive
+kayırmak,positive
+iletişimli,positive
+güçlü kuvvetli,positive
+sevim,positive
+gururunu okşamak,positive
+sevme,positive
+insanlık etmek,positive
+tevazu,positive
+sevgi,positive
+gol atmak,positive
+mükâfat almak,positive
+atıfet,positive
+gönül eğlencesi,positive
+sevaba girmek,positive
+verici,positive
+aile saadeti,positive
+kalburüstü kalmak,positive
+tasdikli,positive
+mesleğinin eri olmak,positive
+arılık,positive
+filinta gibi,positive
+akıllılık,positive
+duyarlılık,positive
+dava kazanmak,positive
+coşturmak,positive
+kıkırlık,positive
+adı sanı olmak,positive
+bravo,positive
+insani yardım,positive
+düzenli olma,positive
+bayram yeri,positive
+ölümsüz,positive
+zekalı,positive
+tesit,positive
+zihni açılmak,positive
+kıymetlenmek,positive
+açık seçik,positive
+nüktedan,positive
+kaymağını almak,positive
+kolaylıkla,positive
+nezaretli,positive
+iyilik etmek,positive
+erinçli,positive
+iltifatkâr,positive
+yağmur yağarken küpünü doldurmak,positive
+hüsnüzan,positive
+gani,positive
+seciyeli,positive
+moral vermek,positive
+sıcakkanlılık,positive
+teferrüt,positive
+geniş gönüllü,positive
+çekimli,positive
+seyir,positive
+yer tutmak,positive
+eli yüzü düzgünlük,positive
+olanak tanımak,positive
+anlı şanlı,positive
+kendini iyi hissetmek,positive
+kanatları altına almak,positive
+terfi,positive
+sempatisini kazanmak,positive
+kolayını bulmak,positive
+polat gibi,positive
+heybetli,positive
+cennet kuşu,positive
+mehâbet,positive
+kemaliafiyet,positive
+salim,positive
+ellerde gezmek,positive
+sevap kazanmak,positive
+kârlı,positive
+asılanma,positive
+arınmak,positive
+kahkaha fırtınası,positive
+itidalli,positive
+sakıncasız,positive
+gözü kara çıkmak,positive
+tane tane konuşmak,positive
+memnun etmek,positive
+babayiğit,positive
+takdir olunmak,positive
+keyifli,positive
+ilham vermek,positive
+buse,positive
+vaktini şaşmamak,positive
+zekâlı,positive
+zemzemle yıkanmış olmak,positive
+temkin,positive
+uzun boylu,positive
+tanrılaştırmak,positive
+hasbihâl,positive
+sessiz,positive
+atiklik,positive
+derli toplu,positive
+kabul eylemek,positive
+koltuk çıkmak,positive
+rağbet göstermek,positive
+ciddî,positive
+imtizaç etmek,positive
+zevkli geçmek,positive
+kont gibi yaşamak,positive
+yakından,positive
+afiyet,positive
+aklı başına gelmek,positive
+nitelikli,positive
+terbiye görmek,positive
+bayram yapmak,positive
+pala sürtmek,positive
+ahilik,positive
+dostça,positive
+beyinli,positive
+kıvanç duymak,positive
+yumuşaklık,positive
+ağzının suyu akmak,positive
+sanem,positive
+göz almak,positive
+tetik,positive
+takdirini kazanmak,positive
+teberru etmek,positive
+kol kanat germek,positive
+hayır sahibi,positive
+akıllı olmak,positive
+arı duru,positive
+canına değmek,positive
+yenileme,positive
+cicim,positive
+mükâfatlandırmak,positive
+"iyiye iyi , kötüye kötü demek",positive
+falsosuz,positive
+iyileştirmek,positive
+kurtarıcılık,positive
+sarılmak,positive
+gönlünü çalmak,positive
+vermek,positive
+suhuletle,positive
+sterilleştirmek,positive
+su gibi ezberlemek,positive
+gümrahlık,positive
+serinlik vermek,positive
+evhamsız,positive
+bilge,positive
+ehlileşme,positive
+bilir,positive
+kullanışlı,positive
+itimat,positive
+tevcih,positive
+kolayca,positive
+sağaltmak,positive
+baylanlık,positive
+rıza,positive
+umursamak,positive
+yurtseverlik,positive
+puan hesabıyla yenmek,positive
+özenli,positive
+özenle,positive
+şakacı,positive
+âkil,positive
+temaşa,positive
+kültürlü,positive
+mergup,positive
+mevhibe,positive
+mangal yürekli,positive
+temeyyüz etmek,positive
+laf dinlemek,positive
+titizleşmek,positive
+kiyaset,positive
+yazıksız,positive
+hulus çakmak,positive
+sempati beslemek,positive
+kısmeti ayağına gelmek,positive
+yağ yakmak,positive
+kral,positive
+iltifatkar,positive
+yenilik,positive
+deşarj,positive
+bağış yapmak,positive
+mevsuk,positive
+aklı kesmek,positive
+içi yağ bağlamak,positive
+örülü olmak,positive
+göklere çıkarmak,positive
+son gürlüğü,positive
+hâlden bilmek,positive
+kalbine girmek,positive
+âlem,positive
+ikram görmek,positive
+laf tutmak,positive
+zihnini toplamak,positive
+gözü gibi sevmek,positive
+yüreğini serinletmek,positive
+civanım,positive
+sırım gibi,positive
+güzel güzel,positive
+hayrını görmek,positive
+noksansız,positive
+muaşakada olmak,positive
+münasip,positive
+arınık,positive
+ılım,positive
+can atma,positive
+tantanalı,positive
+mum olmak,positive
+tümlük,positive
+hakçası,positive
+dört ayak üstüne düşmek,positive
+endişesiz,positive
+kale gibi,positive
+karine,positive
+koltukları kabarmak,positive
+kemik gibi,positive
+mutabık kalmak,positive
+keyif çatmak,positive
+bebek,positive
+göklere çıkmak,positive
+yaş yere basmamak,positive
+kafası işlemek,positive
+midevi,positive
+perhiz yapmak,positive
+himmet,positive
+hasenat,positive
+mihrap,positive
+kolaylık,positive
+aklamak,positive
+olgunlaşmak,positive
+başı göğe değmek,positive
+bıyığını balta kesmez olmak,positive
+tadından yenmemek,positive
+şen olmak,positive
+bonkör,positive
+ilham etmek,positive
+parmağının ucuyla çevirmek,positive
+muştu,positive
+sıcak bakmak,positive
+muvafık olmak,positive
+içten,positive
+izzetüikbal,positive
+zihayat,positive
+sıyanet etmek,positive
+girginlik,positive
+velut,positive
+iyicillik,positive
+kollamak,positive
+projeksiyon tutmak,positive
+ihlaslı,positive
+esenlikli,positive
+esenlikle,positive
+sefasına bakmak,positive
+cızlam,positive
+gözünün bebeği gibi sevmek,positive
+naziklik,positive
+tamam,positive
+faydası olmak,positive
+büyülü,positive
+belginlik,positive
+konuşmak,positive
+sütliman,positive
+dilber,positive
+ıtri,positive
+kazanç elde etmek,positive
+tedbirli,positive
+dilbaz,positive
+hak etmek,positive
+güven vermek,positive
+aşı vurulmak,positive
+bağımsızca,positive
+baldudak,positive
+halisüddem,positive
+kunt,positive
+layık olmak,positive
+kolaylık göstermek,positive
+serenat,positive
+gözleri berraklaşmak,positive
+hayırhah,positive
+bedii,positive
+gedikleri tıkamak,positive
+orijinalite,positive
+açık fikirli,positive
+gönül borçlusu,positive
+cennet gibi,positive
+metanetli,positive
+ağzı laf yapmak,positive
+avunmak,positive
+hassasiyetli,positive
+imkan vermek,positive
+ellerin dert görmesin,positive
+ilerleme,positive
+kendini göstermek,positive
+doğruculuk,positive
+dört başı mamur,positive
+bastığı yeri bilmemek,positive
+gelişimci,positive
+teltiksiz,positive
+kompliman,positive
+aşığı cuk oturmak,positive
+şükür,positive
+hukuka uygunluk,positive
+işten değil,positive
+fevkalade,positive
+azimkâr,positive
+özenip bezenmek,positive
+tur bindirmek,positive
+dostluk,positive
+ucuzluk,positive
+baba ocağı,positive
+uykusunu almak,positive
+limanlamak,positive
+yardım,positive
+sıkı sıkı,positive
+zekice,positive
+itilaf etmek,positive
+leb demeden leblebiyi anlamak,positive
+erişme,positive
+itibar etmek,positive
+yıldız barışıklığı,positive
+yapıcı,positive
+bileğinin zoruyla,positive
+şahsiyetli,positive
+yansızlık,positive
+taşaklı,positive
+olumlu,positive
+imdadına erişmek,positive
+ağzı kilitli,positive
+düzgün,positive
+debdebeli,positive
+ümit uyanmak,positive
+saftirik,positive
+yapılı,positive
+gönül birliği etmek,positive
+meşkur,positive
+fosforlu,positive
+cilve,positive
+kadifeleşmek,positive
+sigorta olmak,positive
+derinliğine,positive
+insaf etmek,positive
+memnunca,positive
+pehlivanane,positive
+sahavet,positive
+helallik,positive
+defosuz,positive
+hatır gönül saymak,positive
+vergi,positive
+yorgunluğunu atmak,positive
+elinden hiçbir şey kurtulmamak,positive
+geçer akçe,positive
+bahtlı,positive
+terapi,positive
+sakıntısız,positive
+saydam,positive
+şeytanın ayağını kırmak,positive
+yaşatmak,positive
+takdir eylemek,positive
+fennini almak,positive
+peri,positive
+haklı olmak,positive
+birinci sınıf,positive
+başarı,positive
+marifet göstermek,positive
+hoş bulduk,positive
+açıklıkla,positive
+can dostu,positive
+anadan doğmuşa dönmek,positive
+açık yüreklilik,positive
+zeytin dalı uzatmak,positive
+cimcime,positive
+doyum olmamak,positive
+sırdaş,positive
+melaike,positive
+uslandırma,positive
+medenilik,positive
+eli selek,positive
+yola vurmak,positive
+arka vermek,positive
+çekicilik,positive
+yağ gibi kaymak,positive
+uğur getirmek,positive
+bilinçlendiriş,positive
+ballı börek,positive
+haysiyetli,positive
+arınmış,positive
+acizane,positive
+ufkunu genişletmek,positive
+sapasağlam,positive
+kalbini fethetmek,positive
+fukara babası,positive
+mülayim,positive
+süslü püslü,positive
+şampiyona,positive
+sitayiş,positive
+incelik,positive
+yaratıcılık,positive
+bollatma,positive
+bereketli,positive
+indirim,positive
+dillere destan olmak,positive
+kapışılmak,positive
+çekici,positive
+fevkaladelik,positive
+yürütmek,positive
+aslanlık,positive
+gözleri kamaşmak,positive
+sunturlu,positive
+şirinlik,positive
+revaçta,positive
+muaşaka,positive
+teşrif,positive
+kahramanca,positive
+cadı,positive
+neşelendirmek,positive
+bağlılık,positive
+Hüma,positive
+iyi karşılamak,positive
+cana,positive
+elinden gelmek,positive
+meccani,positive
+beylik,positive
+yüreği serinlemek,positive
+saygınlık,positive
+sadık kalmak,positive
+akıllı uslu,positive
+ölüsü bile yetmek,positive
+gönç,positive
+parıldamak,positive
+tıkırında,positive
+masumiyet,positive
+sayma,positive
+kasvetsiz,positive
+saygı,positive
+telleyip pullamak,positive
+çare,positive
+coşturulma,positive
+güvenceye bağlamak,positive
+yiğitçe,positive
+cana minnet bilmek,positive
+ateşli ateşli,positive
+paklamak,positive
+taltif etmek,positive
+kostak,positive
+temiz yürekli,positive
+serinkanlı,positive
+"alı alına, moru moruna",positive
+varışlılık,positive
+cıvıl cıvıl,positive
+porte,positive
+gözü açık olmak,positive
+ıtır,positive
+cankulağı,positive
+ölçülü,positive
+adaletli,positive
+ilham kaynağı olmak,positive
+destekleyicilik,positive
+tartı,positive
+ellerinize sağlık,positive
+sağ kalmak,positive
+karış karış bilmek,positive
+ihtiyatlı olmak,positive
+yârenlik etmek,positive
+sabırlı,positive
+bitek,positive
+meyve vermek,positive
+şartlara uymak,positive
+ağzı kulaklarına varmak,positive
+fazilet,positive
+paşa,positive
+barış görüş olmak,positive
+bayram havası,positive
+evladiyelik,positive
+masumca,positive
+varlık,positive
+ayak üstünde olmak,positive
+façası olmak,positive
+takdir etmek,positive
+cedit,positive
+lütufkâr,positive
+güzel giyinmek,positive
+kemale gelmek,positive
+boşalma,positive
+cemile,positive
+dudak dudağa gelmek,positive
+serinlemek,positive
+işkembesi geniş,positive
+orijinal,positive
+düğümünü çözmek,positive
+gıllıgışsız,positive
+piyangolu,positive
+temizleme,positive
+sulhsever,positive
+ar namus tertemiz,positive
+sinekkaydı,positive
+başı dik,positive
+elverişli,positive
+dengelemek,positive
+koç yiğit,positive
+aliyyülâlâ,positive
+aklanmak,positive
+mışıl mışıl,positive
+donanma,positive
+yararlanmak,positive
+donamak,positive
+çabalamak,positive
+aromatik,positive
+muavenet etmek,positive
+toplumsal yardım,positive
+başına devlet kuşu konmak,positive
+talihli,positive
+yaşasın,positive
+tek vücut olmak,positive
+sağlam,positive
+şifa vermek,positive
+birbiri için yaratılmış olmak,positive
+fırsat vermek,positive
+sağistem,positive
+iyi düşünülmüş,positive
+relaks,positive
+tertipli,positive
+yarenlik etmek,positive
+yükselmek,positive
+can arkadaşı,positive
+nasihatte bulunmak,positive
+dört dörtlük,positive
+pürüzsüz,positive
+natıkalı,positive
+faydalı olmak,positive
+mantıklı,positive
+tatlı,positive
+kalifikasyon,positive
+iman getirmek,positive
+tedariklemek,positive
+uzlaştırıcılık,positive
+çarpıcılık,positive
+başına talih kuşu konmak,positive
+ışıklı,positive
+yücelmek,positive
+nağmeli,positive
+zararsız,positive
+moral eğitimi,positive
+helal süt emmek,positive
+fütuhat,positive
+değerbilirlik,positive
+sohbet,positive
+yararlı olmak,positive
+hora geçmek,positive
+gazilik,positive
+nezaket göstermek,positive
+gırgır geçmek,positive
+rahat etmek,positive
+ak yazılı,positive
+ihlas,positive
+arkadaş,positive
+sıcak yüz göstermek,positive
+cillop,positive
+inci döktürmek,positive
+alaka toplamak,positive
+korkusuz,positive
+eşref,positive
+müsterih olmak,positive
+taharet almak,positive
+yeti,positive
+güvenmek,positive
+takdirkâr,positive
+cazibeleşmek,positive
+vakur,positive
+konuşucu,positive
+verimli,positive
+tedarikli,positive
+yakışmak,positive
+anmak,positive
+tatmin etmek,positive
+şapka çıkarmak,positive
+yurda dönüş,positive
+sevimlilik,positive
+münferit,positive
+evin direği,positive
+hazırlık yapmak,positive
+isteklendirme,positive
+sıra saygı gözetmek,positive
+ciddiyet,positive
+bülbül gibi okumak,positive
+insanlık hali,positive
+uzlaşmacılık,positive
+itinalılık,positive
+zarafet,positive
+mütevazin,positive
+cana yakınlık,positive
+hatırından çıkmamak,positive
+ortalık yatışmak,positive
+vakar,positive
+işi yolunda gitmek,positive
+nasiplenmek,positive
+neşesini bulmak,positive
+insancıl,positive
+şampiyonluk,positive
+destek görmek,positive
+ahiretini zenginleştirmek,positive
+müheyyiç,positive
+kelli felli,positive
+dünya durdukça durasın,positive
+yarlıgamak,positive
+müeddep,positive
+sadakatli,positive
+göz doyurmak,positive
+restore etmek,positive
+yatkın bulmak,positive
+kuvvetlendirici,positive
+uzlaştırıcı,positive
+gül gibi yaşamak,positive
+hatır almak,positive
+zinde,positive
+gönül eri,positive
+pürüzsüzleşmek,positive
+albenili,positive
+capcanlı,positive
+hayra yormak,positive
+lütufkar,positive
+keyfini yapmak,positive
+güre,positive
+bağışlayıcı,positive
+güven duymak,positive
+gelişme kaydetmek,positive
+sıcaklık,positive
+itimat etmek,positive
+kıymetlendirmek,positive
+taziz,positive
+ısıtmak,positive
+mesudane,positive
+sağaltma,positive
+hatasız,positive
+bayramyeri,positive
+tastamam,positive
+atlamak,positive
+muştulu,positive
+tutarlı,positive
+namağlup,positive
+güngörmüşlük,positive
+ay parçası,positive
+uğurlu,positive
+ademiyet,positive
+rikkat,positive
+serbest bırakmak,positive
+mazhar,positive
+baş etmek,positive
+angın,positive
+işi temizlemek,positive
+dünyalığı doğrultmak,positive
+pırıltılı,positive
+renk vermek,positive
+baba bucağı,positive
+aralarından su sızmamak,positive
+sebat etmek,positive
+oyuncak,positive
+sözüne sahip,positive
+tedavi,positive
+şifa bulmak,positive
+tıkırında yürümek,positive
+kapanın elinde kalmak,positive
+serüven,positive
+cici,positive
+şüphesiz,positive
+guru,positive
+lâyık,positive
+gevşemek,positive
+dilinden anlamak,positive
+yaşa,positive
+ömür adam,positive
+eli para görmek,positive
+şerefli,positive
+hüzünsüz,positive
+garantörlük,positive
+fehamet,positive
+göz banyosu,positive
+evcilleştirme,positive
+muvafık,positive
+ömrüne ömür katmak,positive
+puan toplamak,positive
+eli ermek,positive
+saygı göstermek,positive
+meclup,positive
+erdem,positive
+helal etmek,positive
+talimli,positive
+cıvıltı,positive
+lehinde söylemek,positive
+edinilmiş beceri,positive
+maharet,positive
+yola düzülmek,positive
+ödül vermek,positive
+yörüngesine oturmak,positive
+perhiz etmek,positive
+gülecen,positive
+ilminden anlamak,positive
+itila etmek,positive
+bahadırlık,positive
+öpüp başına koymak,positive
+takdirkar,positive
+şahika,positive
+nasihat etmek,positive
+hazzetmek,positive
+sevilmek,positive
+gözünün içine bakmak,positive
+sağduyulu,positive
+fair play,positive
+turist,positive
+şecaat,positive
+besalet,positive
+tamlık,positive
+ilericilik,positive
+istihkak,positive
+candaş,positive
+oh demek,positive
+azimkar,positive
+ağızsız,positive
+mahrem,positive
+baş döndürmek,positive
+civan,positive
+galeyana getirmek,positive
+himaye etmek,positive
+meleke,positive
+insaflıca,positive
+yer vermek,positive
+tadı damağında kalmak,positive
+iktiran,positive
+puan almak,positive
+şad etmek,positive
+tazelenmek,positive
+azat etmek,positive
+tevafuk etmek,positive
+sefa geldin,positive
+kalite,positive
+şereflenmek,positive
+yorgunluk çıkarmak,positive
+mümkün olmak,positive
+donanmak,positive
+bir ilke imza atmak,positive
+candan,positive
+dinçlenmek,positive
+bekâret,positive
+mümbit,positive
+ortama uymak,positive
+varma,positive
+göz kamaştırıcı,positive
+arılanmak,positive
+babacanlaşmak,positive
+gül gibi geçinmek,positive
+eli çabuk,positive
+acısını paylaşmak,positive
+zevki çıkmak,positive
+can vermek,positive
+ağzı kulaklarında,positive
+müdebbir,positive
+incelmek,positive
+asgari müşterek,positive
+sağlık,positive
+prim,positive
+refahlı,positive
+eski kulağı kesiklerden olmak,positive
+dirilmek,positive
+büyüklük göstermek,positive
+ihsan,positive
+paçayı sıyırmak,positive
+ağzı açık,positive
+sere serpe,positive
+celal,positive
+müzikalite,positive
+kurtulma,positive
+emeği geçmek,positive
+sigarayı tellendirmek,positive
+ceylan bakışlı,positive
+kibarlaşmak,positive
+dolgun ücret,positive
+gözü tutmak,positive
+yüzünü ağartmak,positive
+fena sayılmaz,positive
+nükteli,positive
+külahını havaya atmak,positive
+nezaketle,positive
+nezaketli,positive
+varsıl,positive
+teşrif etmek,positive
+nezaketen,positive
+şefaat etmek,positive
+çözüme kavuşturmak,positive
+kurtuluş,positive
+evrim,positive
+dua almak,positive
+beyzadelik,positive
+aliyyülala,positive
+ihraz,positive
+iyiye çekmek,positive
+yüzü açılmak,positive
+can simidi olmak,positive
+mücehhez,positive
+şeker gibi,positive
+zengin etmek,positive
+mazbut,positive
+tatlı söz,positive
+mutabakata varmak,positive
+gülmekten kırılmak,positive
+baba yurdu,positive
+nükteci,positive
+kabuğunu çatlatmak,positive
+niteliklilik,positive
+ihtiyatlı davranmak,positive
+yeri olmak,positive
+billuri,positive
+yengi,positive
+mümkün görünmek,positive
+adama dönmek,positive
+alakasını uyandırmak,positive
+bediileşmek,positive
+felekten kâm almak,positive
+insaniyetli,positive
+kaydetmek,positive
+keklik,positive
+gıcır gıcır etmek,positive
+zar gelmek,positive
+kahkahadan kırılmak,positive
+mümkün kılmak,positive
+süslenmek,positive
+kaşlı gözlü,positive
+kip gelmek,positive
+mükâfat,positive
+forsu olmak,positive
+pervasızlık,positive
+sevecence,positive
+işi rast gitmek,positive
+tedbir,positive
+seçkinleşmek,positive
+müsaade,positive
+gözaydına gelmek,positive
+zemzem suyu ile yıkanmak,positive
+celâdet,positive
+öz saygı,positive
+ikram etmek,positive
+cenap,positive
+sempatik,positive
+yüreklilik,positive
+yaraştırma,positive
+gözünü almak,positive
+zevküsefa,positive
+müzaheret,positive
+cüsseli,positive
+gayretli,positive
+temeyyüz,positive
+ruh kazandırmak,positive
+ömrümün varı,positive
+söz tutmak,positive
+ıslah etmek,positive
+yoluna girmek,positive
+teyit etmek,positive
+demir gibi,positive
+seçkinleşme,positive
+çağdaşlaştırılmak,positive
+oturaklı,positive
+mikropsuzlaştırmak,positive
+gözaydına gitmek,positive
+cinsilatif,positive
+öpüşmek,positive
+içi dışı bir,positive
+helâllik,positive
+varsıllaşma,positive
+başı havada,positive
+zirve,positive
+ölmezoğlu,positive
+onarımcı,positive
+gözleri okşamak,positive
+müşfik,positive
+yağlı ballı olmak,positive
+açık kalplilik,positive
+zahmetsiz,positive
+değmek,positive
+kârlıca,positive
+cesaretlendirmek,positive
+su gibi akmak,positive
+bağışlanmak,positive
+şeytan tüyü olmak,positive
+ucuz,positive
+kibarcasına,positive
+havalı,positive
+uyuşma,positive
+üsluplu,positive
+kuzulaşmak,positive
+izdivaç,positive
+sızısız,positive
+imtizaç,positive
+arkalamak,positive
+dumanı üstünde,positive
+iyileştirebilme,positive
+yüreğine su serpmek,positive
+cümbüş,positive
+kertesine getirmek,positive
+benzine kan gelmek,positive
+ağırlığını koymak,positive
+gönüllü olmak,positive
+gül gibi bakmak,positive
+garazsız,positive
+can gözdesi,positive
+hüsnüzan etmek,positive
+methetmek,positive
+yaşamak,positive
+okumuş olmak,positive
+kucağını açmak,positive
+can beraber,positive
+kutsallaştırma,positive
+güvence altına almak,positive
+can kurban,positive
+sübvansiyon,positive
+cesaretlilik,positive
+üstüne olmamak,positive
+nasip etmek,positive
+hareketli,positive
+nasip almak,positive
+kafa dinlemek,positive
+gönül rızası,positive
+felah bulmak,positive
+sakinlemek,positive
+elüstünde tutmak,positive
+rehber,positive
+şaheser,positive
+demek,positive
+altın yumurtlayan tavuk,positive
+büyük mutluluk,positive
+krallaşmak,positive
+sergüzeşt,positive
+albeni,positive
+iyimserlik,positive
+nur gibi,positive
+kavzamak,positive
+elbirliği etmek,positive
+işin üstesinden gelmek,positive
+gönüldaş,positive
+sağlamak,positive
+gönüllü,positive
+itimatlı,positive
+şavkımak,positive
+çıngıraklı,positive
+oğuz,positive
+varış,positive
+hürmetkârane,positive
+lehine olmak,positive
+espri patlatmak,positive
+beyin,positive
+teneffüs,positive
+kibarca,positive
+görev adamı,positive
+cengaverce,positive
+gelgelli,positive
+bezgi,positive
+teklifsizce,positive
+kâhillik,positive
+coşku,positive
+sükse,positive
+zevkiselim,positive
+bezek,positive
+coşma,positive
+cesur,positive
+efil efil etmek,positive
+sarahat,positive
+sağlamca,positive
+etekleri ıslık çalmak,positive
+tatlılıkla,positive
+faziletli,positive
+çalışma barışı,positive
+ermek,positive
+güvenirlik,positive
+aynı fikirde olmak,positive
+renklendirmek,positive
+derinden,positive
+şık şık giyinmek,positive
+uygarca,positive
+tüvana,positive
+kıyak yapmak,positive
+üzerine titremek,positive
+her lafın altından kalkmak,positive
+ululaşmak,positive
+soylu soplu,positive
+dürüst oyun,positive
+tezhip,positive
+yerli yerinde,positive
+görüşmek,positive
+kreatif,positive
+hürmeten,positive
+kahillik,positive
+arkası yere gelmemek,positive
+gönül tokluğu,positive
+bahtiyarlık,positive
+düzgünce,positive
+kar elde etmek,positive
+şerefyap olmak,positive
+korkusuzluk,positive
+erlik,positive
+keramet,positive
+hürmetle,positive
+mecbur,positive
+mesut etmek,positive
+hürmetli,positive
+dört gözle beklemek,positive
+ferişte,positive
+tıkırında olmak,positive
+çanak yalamak,positive
+alkış almak,positive
+mütelezziz,positive
+sağalmak,positive
+göz kulak olmak,positive
+medeni,positive
+rayına girmek,positive
+kalem parmaklı,positive
+meyveli,positive
+kaçın kurası,positive
+gır gır,positive
+dost olmak,positive
+yetik,positive
+imza atmak,positive
+sımsıcak,positive
+kırnak,positive
+hatır gönül bilmek,positive
+hava,positive
+sınavdan geçmek,positive
+arkalama,positive
+canıyürekten,positive
+dirayetli,positive
+karıncayı bile ezmemek,positive
+utkulu,positive
+kümeye çıkmak,positive
+kutlamak,positive
+haza,positive
+kutsama,positive
+içi açılmak,positive
+yararı dokunmak,positive
+yüz akı,positive
+süslemek,positive
+lehinde bulunmak,positive
+ihtiyatkar,positive
+muhip,positive
+delifişek,positive
+derde derman olmak,positive
+yeter,positive
+üstün zekalı,positive
+meserretle,positive
+fedakâr,positive
+sililik,positive
+dengeleme,positive
+gelişmiş,positive
+bey gibi yaşamak,positive
+denge,positive
+letafet,positive
+ağrısız,positive
+kafa dinlendirmek,positive
+iş bitirmek,positive
+yumuşamak,positive
+gözlemek,positive
+tasvip görmek,positive
+izzetinefis,positive
+ahu parçası,positive
+alın teri ile kazanmak,positive
+kutlu,positive
+lafını yabana atmamak,positive
+ölçülülük,positive
+hoşlaşmak,positive
+âcizane,positive
+gözleri parıldamak,positive
+silahsız,positive
+paraya pul dememek,positive
+ağırbaşlı,positive
+beğenmek,positive
+ağız tadıyla,positive
+kadrini bilmek,positive
+tamirci,positive
+aklın süzgecinden geçirmek,positive
+ehlîleşmek,positive
+zengin,positive
+nazarıdikkatini çekmek,positive
+denli,positive
+nuruaynım,positive
+ciddîlik,positive
+süslenip püslenmek,positive
+sözden anlamak,positive
+azrail'in elinden kurtulmak,positive
+teminat vermek,positive
+şöhret sahibi,positive
+pekâlâ,positive
+emsal olmak,positive
+muvaffakiyetli,positive
+bayağı,positive
+mümeyyiz,positive
+maşuka,positive
+terfi etmek,positive
+sahiplenmek,positive
+inayet etmek,positive
+eteklerini toplamak,positive
+isabetli,positive
+uygun gelmek,positive
+noktası noktasına,positive
+şereflendirmek,positive
+tasarruflu,positive
+sosyallik,positive
+diğergamlık,positive
+esprili,positive
+kudret,positive
+anlayabilmek,positive
+gelişkin,positive
+süper,positive
+kertesine gelmek,positive
+geçer,positive
+ustalaşmak,positive
+hâli vakti yerinde,positive
+cesaretlenme,positive
+can olmak,positive
+külliyet,positive
+iftihar listesi,positive
+aşka gelmek,positive
+ikinci baharı yaşamak,positive
+aşıktaşlık etmek,positive
+sıla,positive
+minnettar,positive
+kıvançlı,positive
+sıkı sıkıya,positive
+riayet,positive
+nazı geçmek,positive
+beklemek,positive
+kendini bulmak,positive
+rikkatli,positive
+rikkatle,positive
+suna boylu,positive
+affedilmek,positive
+"küçükle küçük , büyükle büyük olmak",positive
+revaçta olmak,positive
+söyleşi,positive
+şıklaştırma,positive
+süs püs,positive
+ahu gibi,positive
+güldürü,positive
+paklık,positive
+dadaş,positive
+temiz tutmak,positive
+elden ele dolaşmak,positive
+istençli,positive
+onarımcılık,positive
+canı gibi sevmek,positive
+yolunu bilmek,positive
+mütebessim,positive
+eli ekmek tutmak,positive
+beşaret,positive
+yüzünden kan damlamak,positive
+el alışkanlığı,positive
+yüreği temiz,positive
+devlet kuşu,positive
+billurlaşma,positive
+iradeli,positive
+safdil,positive
+yüreği ferahlamak,positive
+tıkırı yolunda olmak,positive
+şartları karşılamak,positive
+çekici gelmek,positive
+fedakârcasına,positive
+şen şakrak,positive
+çoşku,positive
+soylu,positive
+kucaklamak,positive
+basit,positive
+cazibedar,positive
+zafer,positive
+ihtiyatkâr,positive
+namusuyla yaşamak,positive
+muhteşem,positive
+işlek,positive
+canan,positive
+ülfet etmek,positive
+kurtlarını kırmak,positive
+eline ayağına üşenmemek,positive
+kuyruk sallamak,positive
+üstüne toz kondurmamak,positive
+çığır açmak,positive
+kaynatmak,positive
+tavını bulmak,positive
+afiyet olsun,positive
+kulağı okşamak,positive
+eşik atlamak,positive
+keleci,positive
+iyi kalpli,positive
+bilgeleşmek,positive
+terakkî,positive
+alım çalım,positive
+ahlaklı,positive
+yeteneklice,positive
+iyi olmak,positive
+bayıla bayıla,positive
+serbest,positive
+gözü gibi sakınmak,positive
+safderun,positive
+gözü tok,positive
+idrak,positive
+muhassenat,positive
+kalburüstüne gelmek,positive
+zihni boşalmak,positive
+tatlıya bağlamak,positive
+emniyetli,positive
+hüsnütelakki,positive
+firar,positive
+terakki,positive
+aslan,positive
+saftorik,positive
+bereket,positive
+umma,positive
+tatlı dil,positive
+barışçılık,positive
+şekerleşmek,positive
+dostluk etmek,positive
+umut,positive
+nur yüzlü,positive
+ziyansız,positive
+lüks,positive
+tonton,positive
+yırtıkça,positive
+iştahı açılmak,positive
+elma yanaklı,positive
+seviyeli,positive
+zevkine varmak,positive
+akıcılık,positive
+tarziye,positive
+kavuşma,positive
+göz bebeği,positive
+tahsil,positive
+yüreklilikle,positive
+vecde gelmek,positive
+görüp gözetmek,positive
+açıklık kazanma,positive
+albeni vermek,positive
+kemal bulmak,positive
+uygun görmek,positive
+kabul etmek,positive
+afili,positive
+temenni etmek,positive
+bol kepçe,positive
+ayağa kalkmak,positive
+müdana etmemek,positive
+helalühoş,positive
+kabadayı,positive
+çoklu zekâ,positive
+arılamak,positive
+zahir,positive
+muvazene,positive
+hakkaniyet,positive
+ruhunda güneş açmak,positive
+şıkırdamak,positive
+dört köşe olmak,positive
+meşakkatsiz,positive
+vazıh,positive
+yerini bulmak,positive
+tertemiz,positive
+mutabık,positive
+handan,positive
+sağlam durmak,positive
+kürünü kırmak,positive
+olgun,positive
+iyileştirme,positive
+beyzade,positive
+doğrucu davut,positive
+alımlılık,positive
+ihtiyatli,positive
+mükafatlandırmak,positive
+sistemli,positive
+ayağı uğurlu,positive
+berhudar ol,positive
+batur,positive
+süslü,positive
+kuzum,positive
+iştahı kabarmak,positive
+gelişim,positive
+munis,positive
+yunmuş arınmış,positive
+hoşnut olmak,positive
+hazzetme,positive
+hakşinas,positive
+güler yüz,positive
+mütehammil,positive
+emniyet altına almak,positive
+gözü gibi saklamak,positive
+bökelik,positive
+tosun,positive
+terakki göstermek,positive
+ziyafet çekmek,positive
+ağzının tadını bilmek,positive
+ihtiyatlı,positive
+havası olmak,positive
+kaynak kişi,positive
+şaka yapmak,positive
+yüreği rahatlamak,positive
+aktöre,positive
+parti vermek,positive
+lezzetli,positive
+minnettarca,positive
+kolaycacık,positive
+gönlünü almak,positive
+insanlık hâli,positive
+direk gibi,positive
+it canlı,positive
+sâdık,positive
+yar olmak,positive
+mitleştirmek,positive
+karınca kararınca,positive
+canlar,positive
+uyaroğlu,positive
+bilinçlilik,positive
+bileğinin hakkıyla,positive
+nuruçeşmim,positive
+çalak,positive
+başı üstünde yeri olmak,positive
+zekâvet,positive
+rayına oturtmak,positive
+rast gitmek,positive
+hayrulhalef,positive
+yaşama sevinci,positive
+kapış kapış gitmek,positive
+gönlünü etmek,positive
+canına can katmak,positive
+üstün zekâlılık,positive
+keyif sormak,positive
+tatlılaşmak,positive
+anıtlaşmak,positive
+imdadına yetişmek,positive
+sıra saygı,positive
+müftehir,positive
+hediye,positive
+kibirsiz,positive
+yardım görmek,positive
+girişken,positive
+onur duymak,positive
+marka giymek,positive
+ayakta kalmak,positive
+havalara uçmak,positive
+alicenap,positive
+kıyak kaçmak,positive
+takla atmak,positive
+imkân vermek,positive
+harika,positive
+temayüz,positive
+işbirliği,positive
+muhabbetname,positive
+girişkin,positive
+şükran,positive
+çocuk gibi sevinmek,positive
+yarenlik,positive
+nitelikli işçi,positive
+yaramak,positive
+gıcır gıcır,positive
+akıllıca,positive
+günahsız,positive
+talipli,positive
+randımanlı,positive
+alımlı,positive
+cesaret,positive
+ağırtop,positive
+üretim bilgisi,positive
+lokum gibi,positive
+arkadaş olmak,positive
+şöhret salmak,positive
+yunmuş yıkanmış,positive
+saadetli,positive
+cömertleşmek,positive
+harbici,positive
+gelin gibi süzülmek,positive
+katkısız,positive
+gönlüne girmek,positive
+hoşnutluk duymak,positive
+saffet,positive
+taharet,positive
+yükseltme,positive
+zahîr,positive
+izzet,positive
+gönül hoşluğu,positive
+garantilemek,positive
+çevik,positive
+yer açmak,positive
+yaren,positive
+bayram tebriği,positive
+temiz para,positive
+yüreklendirme,positive
+sağaltım,positive
+yarar,positive
+allah tamamına erdirsin,positive
+iradi,positive
+müteşekkir,positive
+haz duymak,positive
+minimini,positive
+yardımda bulunmak,positive
+pekala,positive
+baş üstünde tutmak,positive
+halis muhlis,positive
+barış,positive
+rahatlamak,positive
+dehşet,positive
+uslu,positive
+dincelmek,positive
+gözü açılmak,positive
+telafi etmek,positive
+perileri bağdaşmak,positive
+olgunluk,positive
+yâr olmak,positive
+vâkıf olmak,positive
+söz cambazı,positive
+ağrı kesici,positive
+modernize,positive
+sağlıklı olmak,positive
+pekalâ,positive
+kahramanlık,positive
+eli bol,positive
+usta,positive
+ifa etmek,positive
+dörtköşe olmak,positive
+âbide,positive
+beğence,positive
+tebessüm etmek,positive
+temiz pak,positive
+gülmece,positive
+ömre bedel,positive
+haddikifayeyi bulmak,positive
+beğenme,positive
+adam olmak,positive
+çatal yürek,positive
+işve,positive
+beğeniş,positive
+cengaver,positive
+lafını bilmek,positive
+tebcil etmek,positive
+bahadır,positive
+know-how,positive
+gökçe,positive
+korunma görmek,positive
+insanlık,positive
+yere sağlam basmak,positive
+utku,positive
+vasıflı işçi,positive
+şenelmek,positive
+koketri,positive
+mükellef,positive
+şahbaz,positive
+hüsnüniyet,positive
+kurdele takmak,positive
+dayı,positive
+asalet,positive
+güle oynaya,positive
+aydınlaşmak,positive
+iç açıcı,positive
+bir bir,positive
+güdülenme,positive
+ekmeğini yemek,positive
+temeddün,positive
+temeddüh,positive
+bileğinin kuvvetiyle,positive
+edepli,positive
+kalbini doldurmak,positive
+gelecek vaat eden,positive
+muntazam,positive
+moral bulmak,positive
+hayır dua etmek,positive
+cevvaliyet,positive
+iyi huy,positive
+yararlı,positive
+gülistan,positive
+dayanışmacı,positive
+işi tatlıya bağlamak,positive
+bayram havası esmek,positive
+konfor,positive
+ay gibi,positive
+fenni,positive
+mutlu,positive
+itilafçı,positive
+şans tanımak,positive
+mazhar olmak,positive
+asillik,positive
+ağalık,positive
+dünya gözü ile görmek,positive
+bir biçimine getirmek,positive
+şuurlu,positive
+aralık,positive
+hemhâl olmak,positive
+dengelice,positive
+iyi hal,positive
+aromalı,positive
+billurlaşmak,positive
+şahane,positive
+türküsünü çağırmak,positive
+eğleşmek,positive
+gönendirmek,positive
+kasıntısız,positive
+hazandide,positive
+söyleşmek,positive
+zamanlı,positive
+şaheser yaratmak,positive
+solmaz,positive
+bağlanmak,positive
+fennî,positive
+tehlikesiz,positive
+eline fırsat geçmek,positive
+vatansever,positive
+varlık içinde yaşamak,positive
+makbul olmak,positive
+sağlam kazığa bağlamak,positive
+imdadına koşmak,positive
+turnayı gözünden vurmak,positive
+yepyeni,positive
+altın gibi,positive
+teselli vermek,positive
+yüzüne gülmek,positive
+tütününü tüttürmek,positive
+muasırlaşma,positive
+ferih,positive
+korte etmek,positive
+çevrimli,positive
+alengirli,positive
+zevkine ermek,positive
+ferah,positive
+iplemek,positive
+tutamak,positive
+ulaşma,positive
+usçu,positive
+hoşgörü,positive
+upuslu,positive
+yavru,positive
+ihtisas yapmak,positive
+samimi olmak,positive
+sıhhat,positive
+gözünü alamamak,positive
+kafasını işletmek,positive
+tecviz,positive
+prezantabl,positive
+zeki,positive
+kalbiselim,positive
+espri yapmak,positive
+rantabl,positive
+sağlığına kavuşmak,positive
+deri,positive
+affolmak,positive
+zekî,positive
+üstün zekâlı,positive
+eski toprak,positive
+sürümlü,positive
+güçlenmek,positive
+karnı tok sırtı pek olmak,positive
+zevk,positive
+ızdırapsız,positive
+zarifçe,positive
+ihtiyatlı bulunmak,positive
+paşa gibi yaşamak,positive
+eşi benzeri bulunmamak,positive
+ahbap çavuşlar,positive
+ara buluculuk,positive
+vefakarlık,positive
+güven kazanmak,positive
+açık yürekli,positive
+hoşuna gitmek,positive
+façalı,positive
+şık giyinmek,positive
+geniş bir nefes almak,positive
+ziyafet vermek,positive
+alaka uyandırmak,positive
+müstait,positive
+engelsiz,positive
+milimi milimine,positive
+zindeleşmek,positive
+reform,positive
+yüzü sıcak,positive
+titizlik göstermek,positive
+şıkır şıkır,positive
+muzaffer,positive
+cennetlik,positive
+gönlünü eğlemek,positive
+muntazaman,positive
+alçakgönüllülük,positive
+tehalük,positive
+kutsal,positive
+zarif,positive
+galibiyet,positive
+sevindirici,positive
+ihlaslıca,positive
+dızman,positive
+ihatalı,positive
+kuvvet almak,positive
+cazip,positive
+delişmence,positive
+şaşırtıcı,positive
+nurlu,positive
+leylek gibi,positive
+sağlama bağlamak,positive
+aklı ermek,positive
+müsamahakârlık,positive
+irfan,positive
+ilgi görmek,positive
+vakarlı,positive
+işi kotarmak,positive
+medenileşme,positive
+ağzına bakakalmak,positive
+şefaatçi,positive
+parmakla gösterilmek,positive
+hatırlı,positive
+düşeş atmak,positive
+hürriyet,positive
+olağanüstü,positive
+hayrât,positive
+hassas olmak,positive
+insan hâli,positive
+yumulmak,positive
+boylu boslu,positive
+ahbaplık etmek,positive
+eğitim almak,positive
+kalifiye,positive
+garanti vermek,positive
+hüsnüteveccüh,positive
+tutuşturmak,positive
+şıklık,positive
+saygıdeğer,positive
+ara bulucu,positive
+kılıklı kıyafetli,positive
+tavsiye,positive
+güvencecilik,positive
+hayatının baharını yaşamak,positive
+muştulanma,positive
+sağtöre,positive
+alaka çekmek,positive
+çakırpençe,positive
+kara gün dostu,positive
+filinta,positive
+sivrilme,positive
+tazelik,positive
+göresi gelmek,positive
+kahkaha tufanı,positive
+tazelemek,positive
+pırıl pırıl olmak,positive
+yüz akı ile çıkmak,positive
+deneyim kazanmak,positive
+müjdeli,positive
+şöhret kapısı açılmak,positive
+atik tetik,positive
+efendi gibi yaşamak,positive
+gepgenç,positive
+dudu dilli,positive
+geçinmek,positive
+gönül bağı,positive
+yüzü sıcak olmak,positive
+iltifatlı,positive
+mutlu kılmak,positive
+gönlünü hoş etmek,positive
+yararlı kılmak,positive
+sütninecik,positive
+minyon,positive
+eli hafif,positive
+teşrikimesai,positive
+dokuz canlı,positive
+küpünü doldurmak,positive
+tabasbus etmek,positive
+altın kesmek,positive
+yararlılık,positive
+hümayun,positive
+mürüvvetli,positive
+düzeyli,positive
+dirençli,positive
+akıllı başlı,positive
+danışmanlık yapmak,positive
+başı devletli,positive
+tazeleşmek,positive
+abat etmek,positive
+imdada koşmak,positive
+çaplı,positive
+ustaca,positive
+dinç,positive
+diri,positive
+üstüne titremek,positive
+sevindirmek,positive
+sivrilmek,positive
+tozpembe görmek,positive
+tokgözlü,positive
+ışık tutmak,positive
+etraflı,positive
+gülünçlük,positive
+ongunluk,positive
+fidan boylu,positive
+acısız,positive
+ağrıkesen,positive
+nasibini almak,positive
+yeğnilik,positive
+inkılap,positive
+nasfet,positive
+abide,positive
+yüreği hafiflemek,positive
+hoşnutluk getirmek,positive
+profesyonelce,positive
+babayiğitlik,positive
+kibar,positive
+coşkunlaşmak,positive
+kantarı belinde,positive
+uygarlık,positive
+atlaya zıplaya,positive
+öğrenim,positive
+yerli yerine oturmak,positive
+ustalıklı,positive
+avucunun içi gibi bilmek,positive
+umut ışığı,positive
+zevkli,positive
+görüş birliğine varmak,positive
+afiyetle,positive
+gürbüz,positive
+macera,positive
+feyizlenmek,positive
+işi yolunda olmak,positive
+isteme,positive
+yüzü yumuşak,positive
+dostluk kurmak,positive
+kerametli,positive
+meyilli,positive
+keyfi yerinde,positive
+iyilik bilme,positive
+helal,positive
+iç açmak,positive
+tazim etmek,positive
+hazırlık görmek,positive
+imkan sağlamak,positive
+mevkisi olmak,positive
+tüy düzmek,positive
+mevlasını bulmak,positive
+delişmen,positive
+yetkinlik,positive
+zenginleştirmek,positive
+hoşa gitmek,positive
+ıtırlı,positive
+yola koyulmak,positive
+tebşir etmek,positive
+içi geniş,positive
+çarpıcı,positive
+bülbül gibi şakımak,positive
+hoş tutmak,positive
+sevmek,positive
+ete kemiğe büründürmek,positive
+gülmekten katılmak,positive
+mürüvvetini görmek,positive
+şeci,positive
+anlaşmaya varmak,positive
+altına imza atmak,positive
+kıyak çekmek,positive
+afiyet üzere olmak,positive
+titizlik,positive
+"analı kuzu , kınalı kuzu",positive
+adam sırasına geçmek,positive
+felekten bir gece çalmak,positive
+ekmeğini taştan çıkarmak,positive
+kâr bırakmak,positive
+hayran,positive
+hayrat,positive
+hocalık etmek,positive
+yavuklu,positive
+rayihalı,positive
+muştulamak,positive
+kafasını dinlemek,positive
+deveyi düze çıkarmak,positive
+üstün zekalılık,positive
+cazibe,positive
+çakır pençe,positive
+adam gibi,positive
+hayrı dokunmak,positive
+iktidarlı,positive
+şevk vermek,positive
+ayı gibi,positive
+tazeleme,positive
+teveccüh göstermek,positive
+teberrük,positive
+bağımsızcasına,positive
+başını kurtarmak,positive
+gözde,positive
+şevk,positive
+yardımlaşmak,positive
+söze yatmak,positive
+affa uğramak,positive
+kuvvetlice,positive
+itibarlıca,positive
+halka dönük,positive
+parlatmak,positive
+iştiyak duymak,positive
+ilgi çekmek,positive
+mahbube,positive
+gerçek,positive
+saadet,positive
+kusur etmemek,positive
+inanç,positive
+toparlanmak,positive
+sultanlık,positive
+ortalık düzelmek,positive
+yüreklendirmek,positive
+yüğrük,positive
+iyimser,positive
+cambaz,positive
+gözleri açılmak,positive
+tenzih etmek,positive
+parlaklık,positive
+şetaretli,positive
+evcimen,positive
+uygun düşmek,positive
+davetkar,positive
+başını döndürmek,positive
+sitayişkâr,positive
+kaldırım çiğnemek,positive
+karışkarış bilmek,positive
+mal yapmak,positive
+"büyükle büyük , küçükle küçük olmak",positive
+korumak,positive
+bir güzel,positive
+terbiye almak,positive
+taçsız kral,positive
+fiske kondurmamak,positive
+serçin,positive
+disipline girmek,positive
+bıçkın,positive
+meftun,positive
+sempati duymak,positive
+eli açık,positive
+uyum sağlamak,positive
+yağlayıp ballandırmak,positive
+yiğit,positive
+terlemek,positive
+gönlü hoş,positive
+hakkı ödenmemek,positive
+gövdeli,positive
+bir sözünü iki etmemek,positive
+halife,positive
+kıvrak,positive
+özenlice,positive
+tadını çıkarmak,positive
+gözaydın etmek,positive
+lezzet almak,positive
+şevketli,positive
+hayata bağlamak,positive
+kuzuluk,positive
+çarşaf gibi,positive
+kıyak geçmek,positive
+gönüllendirmek,positive
+tolere etme,positive
+yaltaklanmak,positive
+tevakkuf etmek,positive
+tezyin etmek,positive
+olumlama,positive
+lehinde olmak,positive
+insan hali,positive
+kılıklı,positive
+kutsileşmek,positive
+sevgili,positive
+hayal gibi,positive
+muhlis,positive
+pirüpak olmak,positive
+dayanıklı,positive
+boy bos yerinde,positive
+içine sinmek,positive
+helâl,positive
+efdal,positive
+fırsat çıkmak,positive
+uyarcı,positive
+taltif,positive
+normalleşmek,positive
+dost,positive
+anadan yeni doğmuş gibi olmak,positive
+dobra,positive
+dimdik ayakta durmak,positive
+habip,positive
+gözü gibi esirgemek,positive
+aşıktaşlık,positive
+eline ayağına çabuk,positive
+kolaylaştırma,positive
+bilgili,positive
+biti kanlanmak,positive
+müstahak olmak,positive
+tazimat,positive
+cennetleşmek,positive
+hazırlıklı bulunmak,positive
+tamamlamak,positive
+etekleri zil çalmak,positive
+buluşmak,positive
+popülarite,positive
+el el üstünde oturmak,positive
+beğenilmek,positive
+bonkörce,positive
+edibane,positive
+şive,positive
+disiplinli olma,positive
+bağışıklık kazanmak,positive
+işi tıkırında,positive
+harikalar yaratmak,positive
+ahde vefa etmek,positive
+anıtsal,positive
+rejim yapmak,positive
+öpmek,positive
+huşu,positive
+sevap işlemek,positive
+matrak,positive
+ömrü uzamak,positive
+zevkini okşamak,positive
+hüküm yürütmek,positive
+kaya gibi,positive
+serbaz,positive
+ter dökmek,positive
+dişi,positive
+göresimek,positive
+kıymetini bilmek,positive
+markalaşmak,positive
+laubali,positive
+fariğ,positive
+kredi,positive
+sitayişkar,positive
+güvence vermek,positive
+kibarlık etmek,positive
+hamiyetli,positive
+subvansiyon,positive
+fettane,positive
+vect,positive
+sağ salim,positive
+güç birliği yapmak,positive
+vefa,positive
+aslancasına,positive
+emek vermek,positive
+zevkini çıkarmak,positive
+kanlı canlı,positive
+vefâ,positive
+yaraya merhem olmak,positive
+kabiliyetli,positive
+faydalanmak,positive
+müzaheret etmek,positive
+bitaraflık,positive
+kurtarmacılık,positive
+su gibi okumak,positive
+arabulucu,positive
+semereli,positive
+zevkiselim sahibi,positive
+işi tıkırında gitmek,positive
+hakkından gelmek,positive
+güzelim,positive
+kutsamak,positive
+sevinçle,positive
+sevinçli,positive
+korkusuzca,positive
+ihya etmek,positive
+kollarını açmak,positive
+berhudar,positive
+endike olmak,positive
+tezahürat,positive
+aralarını bulmak,positive
+kazasız,positive
+mutlanma,positive
+içtenlikli,positive
+içtenlikle,positive
+sigarayı tüttürmek,positive
+tebessümlü,positive
+gözüne kestirmek,positive
+ödüllendiriliş,positive
+esenlik,positive
+göğsünü gere gere,positive
+şah,positive
+şad,positive
+içi ısınmak,positive
+dirlik düzenlik,positive
+nazikleşmek,positive
+üstün,positive
+etkileyicilik,positive
+gülüp oynamak,positive
+şen,positive
+tahlis,positive
+yüceltmek,positive
+hüsnüniyetle,positive
+ehlileşmek,positive
+hanım hanımcık,positive
+kapasiteli,positive
+fedakar,positive
+söz cambazlığı,positive
+özverili,positive
+yüreği yufka,positive
+minnoş,positive
+toz kondurmamak,positive
+maniasız,positive
+yekvücut olmak,positive
+telaki,positive
+şuh,positive
+hoşnut kalmak,positive
+tetabuk etmek,positive
+sılacı,positive
+şöhreti dünyayı tutmak,positive
+iane,positive
+evhamsızlık,positive
+telafi,positive
+yüzü ak,positive
+tez beri,positive
+kavgasız,positive
+ismetli,positive
+şampiyon,positive
+dürü,positive
+çağcıllaşma,positive
+minnet,positive
+tensip etmek,positive
+ağzını sıkı tutmak,positive
+cicili bicili,positive
+emniyet vermek,positive
+yerleşmek,positive
+sırtı yere gelmemek,positive
+gönlü bol,positive
+sakinleşmek,positive
+kardeş kardeş,positive
+işe yaramak,positive
+nizamlı,positive
+gözüm,positive
+giydirip kuşatmak,positive
+güçlendirici,positive
+yolunda görünmek,positive
+vâkur,positive
+cengâverce,positive
+hamdolsun,positive
+süslüce,positive
+uğur ola,positive
+dipdiri,positive
+fasih,positive
+dipdinç,positive
+derinleşmek,positive
+maaş artışı,positive
+mülaki,positive
+el birliği etmek,positive
+kafası ile oynamak,positive
+heves,positive
+tecdit,positive
+sürükleyici,positive
+zevk vermek,positive
+başı dik olmak,positive
+ömür sürmek,positive
+ete kemiğe dönüştürmek,positive
+ezbere bilmek,positive
+methini işitmek,positive
+kahramancasına,positive
+devleşmek,positive
+sözüne sadık kalmak,positive
+olumlu eylem,positive
+adaletlilik,positive
+mahsuldar,positive
+içine su serpilmek,positive
+yüksek,positive
+duru,positive
+fedakârlık göstermek,positive
+icap,positive
+espri,positive
+kardeşçe,positive
+allah'ın adamı,positive
+işini bilmek,positive
+onurlandırma,positive
+bekaret,positive
+cebi para görmek,positive
+saat gibi işlemek,positive
+piyango çıkmak,positive
+jest yapmak,positive
+âşıktaşlık,positive
+çuvalla para kazanmak,positive
+metroseksüel,positive
+piyango vurmak,positive
+mesrur,positive
+çorap söküğü gibi gelmek,positive
+namusluca,positive
+yordam,positive
+haz vermek,positive
+paşa paşa,positive
+haysiyet,positive
+kuşsütü ile beslemek,positive
+aklı yetik,positive
+icad etme,positive
+çorap söküğü gibi gitmek,positive
+kazanç sağlamak,positive
+umutlu,positive
+marifet,positive
+seleklik,positive
+emniyet etmek,positive
+keyfi gelmek,positive
+yağlamak,positive
+sakınımlı,positive
+tebriye etmek,positive
+hilal gibi,positive
+stabil,positive
+alaylı,positive
+gönlünü yapmak,positive
+yaltaklık etmek,positive
+abat eylemek,positive
+istidatlı,positive
+arkasını sağlama almak,positive
+alayiş,positive
+sıhhatli,positive
+öğretmek,positive
+haklı,positive
+zevk duymak,positive
+nam kazanmak,positive
+can sağlığı,positive
+hazine,positive
+canciğer olmak,positive
+haktanır,positive
+alicenaplık,positive
+alımlı çalımlı,positive
+ağzını pek tutmak,positive
+halis,positive
+kiraz dudaklı,positive
+gönül okşamak,positive
+hasiyetli,positive
+mâcera,positive
+hayatiyetli,positive
+halas,positive
+mutluluktan uçma,positive
+başı dimdik,positive
+belagat,positive
+tolerans,positive
+komple,positive
+bağışlama,positive
+yiğitlendirmek,positive
+namusu temizlenmek,positive
+bırakıt,positive
+yanağına kan gelmek,positive
+değerlenmek,positive
+iri kıyım,positive
+kurdele kesmek,positive
+işini yoluna koymak,positive
+hakim,positive
+hız vermek,positive
+hatırı için,positive
+gözün aydın,positive
+hayırperver,positive
+kasavetsiz,positive
+kuvvetle,positive
+kuvvetli,positive
+rahatına bakmak,positive
+teselli etmek,positive
+yerinde olmak,positive
+saadethane,positive
+öksüz babası,positive
+alayişli,positive
+yüzü gülmek,positive
+kalbini çalmak,positive
+maşuk,positive
+saygılı,positive
+mahfuz,positive
+müjdelenme,positive
+donanma şenliği,positive
+canına düşkün,positive
+babacanlık,positive
+harbi konuşmak,positive
+düzeltme,positive
+babalık etmek,positive
+yaş tahtaya basmamak,positive
+aktif,positive
+temizce,positive
+ilgi uyandırmak,positive
+rakipsiz,positive
+birlikte hareket etmek,positive
+şuurlandırış,positive
+komplekssiz,positive
+şereflenme,positive
+içini ısıtmak,positive
+yardım etmek,positive
+hürmetkar,positive
+teheyyüç,positive
+ağzı süt kokmak,positive
+kurallıca,positive
+lezzet,positive
+şık,positive
+uygar,positive
+kaliteli,positive
+sonuç almak,positive
+heyecanlanma,positive
+kaymağını yemek,positive
+idareli,positive
+sıpsıcak,positive
+duası tutmak,positive
+temenni,positive
+rast,positive
+dengeli,positive
+tıkırını yoluna koymak,positive
+yüreğine sinmek,positive
+ahlaklılık,positive
+özgürce,positive
+gufran,positive
+mülayemet,positive
+essah,positive
+mürekkep yalamak,positive
+hamiyetperver,positive
+umutlu olmak,positive
+yerini sevmek,positive
+münasebet düşmek,positive
+isabet etmek,positive
+müjdelemek,positive
+kazançlı çıkmak,positive
+ehlîleştirme,positive
+mesleğinin erbabı olmak,positive
+aslan gibi,positive
+şükretmek,positive
+varlığını sürdürmek,positive
+birini temize çıkarmak,positive
+diyet yapmak,positive
+yarayışlı,positive
+merhamet duymak,positive
+idareci,positive
+akıl ermek,positive
+seyretme,positive
+maskaralaşmak,positive
+uzlaşmak,positive
+vefakârlık,positive
+yakınlık kurmak,positive
+liste başı olmak,positive
+cıcık,positive
+dizgine gelmek,positive
+itibar görmek,positive
+kademli,positive
+özenlilik,positive
+voli,positive
+uygun olmak,positive
+intizamlı,positive
+hayır dememek,positive
+güveni olmak,positive
+bahtiyar,positive
+itinayla,positive
+esinlemek,positive
+kucak açmak,positive
+revaç bulmak,positive
+ümit beslemek,positive
+aslanım,positive
+paklanmak,positive
+teceddüt,positive
+mucize,positive
+elden ele gezmek,positive
+iştahı yerinde olmak,positive
+gökte ararken yerde bulmak,positive
+mükemmeliyet,positive
+eli nimetli,positive
+öğüt vermek,positive
+cümbüşlü,positive
+paralıca,positive
+ferahlatmak,positive
+tendürüst,positive
+iddialıca,positive
+ucunu bulmak,positive
+yücelik,positive
+taş gibi,positive
+paskal,positive
+güdüleme,positive
+ortalık sütliman olmak,positive
+şıkır şıkır oynamak,positive
+güvenilirlik,positive
+sefasını sürmek,positive
+kendine hakim olma,positive
+elmas gibi,positive
+bomba gibi,positive
+azat olmak,positive
+uygun,positive
+sarhoş,positive
+mahbup,positive
+etkileyici,positive
+hayran bırakmak,positive
+gönül bağlamak,positive
+hürmette kusur etmemek,positive
+hakça,positive
+ölçülü olmak,positive
+mutlu olmak,positive
+atını sağlam kazığa bağlamak,positive
+eğlendiren kişi,positive
+etraflıca,positive
+yere göğe koymamak,positive
+aralarındaki buzları eritmek,positive
+övüngenlik,positive
+hürmetkarane,positive
+gözü pek olmak,positive
+muhterem,positive
+akıl vermek,positive
+hayretmek,positive
+sefa sürmek,positive
+hayırla anmak,positive
+yürek vermek,positive
+ahu gözlü,positive
+keyfi yerinde olmak,positive
+ilgilendirmek,positive
+talihi yaver gitmek,positive
+reel,positive
+reha,positive
+çalmadan oynamak,positive
+"çocukla çocuk , büyükle büyük olmak",positive
+mükemmelen,positive
+yolunda yürümek,positive
+adama benzemek,positive
+hürmetkâr,positive
+hayran etmek,positive
+bileğinin gücüyle,positive
+tehyiç etmek,positive
+telakki,positive
+bitirim,positive
+bonkörlük,positive
+ciğerleri bayram etmek,positive
+ziynet,positive
+hatırşinas,positive
+reva,positive
+savunmak,positive
+çabucak,positive
+çiçeği burnunda,positive
+yürümek,positive
+ümit bırakmak,positive
+yaraşır,positive
+lezzetini çıkarmak,positive
+ilah,positive
+nokta atışı,positive
+arkadaşça,positive
+asılanmak,positive
+nail olmak,positive
+ilaç,positive
+yasallık,positive
+prestij,positive
+her derde deva olmak,positive
+kaçma,positive
+mütekamil,positive
+keyfinden bayılmak,positive
+şaşaalı,positive
+allameicihan,positive
+ölmez,positive
+kazanılmak,positive
+arayı yapmak,positive
+güvençli,positive
+ciddilik,positive
+ayakları üstünde durmak,positive
+değme,positive
+rağbet etmek,positive
+inanca vermek,positive
+kararında bırakmak,positive
+göreceği gelmek,positive
+inanılmaz,positive
+cazipleşmek,positive
+alkışlamak,positive
+pışpışlamak,positive
+omuz omuza,positive
+tebessüm,positive
+tat almak,positive
+formda olmak,positive
+imar,positive
+gün ışığına çıkmak,positive
+başı dinç,positive
+ilmini almak,positive
+minik,positive
+ağzı kenetli,positive
+rahata ermek,positive
+sebat göstermek,positive
+konuksever,positive
+süsleyip püslemek,positive
+puan tutturmak,positive
+baturluk,positive
+mutabakat sağlamak,positive
+fazıl,positive
+espritüel,positive
+münasip düşmek,positive
+kadrini anlamak,positive
+sterilleşmek,positive
+güzelleştirmek,positive
+uymak,positive
+sevişmek,positive
+gözlerinin içine bakmak,positive
+renk gelmek,positive
+açıklık getirmek,positive
+arızasız,positive
+hanım,positive
+huzurlu,positive
+mürekkep yalamış,positive
+yararı olmak,positive
+keyiflendirmek,positive
+ehemmiyet,positive
+cevaz vermek,positive
+hatır gönül yapmak,positive
+duygudaşlık,positive
+uçmak,positive
+baysallık,positive
+cana can katmak,positive
+muhabbet beslemek,positive
+kutlulanmak,positive
+gayur,positive
+ince,positive
+eli geniş,positive
+müjde götürmek,positive
+taşı gediğine koymak,positive
+yürek,positive
+asrileşme,positive
+hasbi,positive
+akıllılık etmek,positive
+dize getirmek,positive
+hoş gördük,positive
+galeyan,positive
+bir eli yağda bir eli balda,positive
+kalbini kazanmak,positive
+düzelmek,positive
+körpe,positive
+itimat beslemek,positive
+yüreklenme,positive
+suçsuzluk,positive
+et tırnak olmak,positive
+delişmenlik etmek,positive
+fıstık gibi,positive
+samimilik,positive
+centilmenlik,positive
+sarman,positive
+kademli olsun,positive
+hanımefendilik,positive
+eline sağlık,positive
+temayülü olan,positive
+kâr etmek,positive
+bağışlamak,positive
+kemal,positive
+hayat vermek,positive
+ilgi toplamak,positive
+uslu akıllı,positive
+haramsız,positive
+kurtlarını dökmek,positive
+kadem,positive
+görüş birliği sağlamak,positive
+kredili,positive
+hoş kokulu,positive
+kadir,positive
+esaslı,positive
+sefahat,positive
+güzellikle,positive
+ılım ılım,positive
+şahin bakışlı,positive
+muhafaza etmek,positive
+ödül,positive
+sırtını sıvazlamak,positive
+rint,positive
+mürüvvet,positive
+arka çıkmak,positive
+gailesizlik,positive
+hak kazanmak,positive
+hoş karşılamak,positive
+barışsever,positive
+sübvanse,positive
+oynaşmak,positive
+yardımcı olmak,positive
+erkeklik,positive
+vaadini tutmak,positive
+memnuniyet,positive
+uyuşmak,positive
+kendi göbeğini kendi kesmek,positive
+özü sözü bir,positive
+garanti altına almak,positive
+ilâç,positive
+velinimet,positive
+gökçek,positive
+ikinci bahar,positive
+teminatlı,positive
+salıvermek,positive
+apiko,positive
+tadını almak,positive
+bağrına basmak,positive
+edep,positive
+suhulet,positive
+hatırı sayılır,positive
+elçilik yapmak,positive
+empati,positive
+sunma,positive
+sungu,positive
+kısmetli,positive
+aklıevvel,positive
+tıngırı yolunda,positive
+tuhaf,positive
+kanıklanmak,positive
+çivi gibi,positive
+tirendaz,positive
+pehlivanca,positive
+sözünde durmak,positive
+yârenlik,positive
+alakasını çekmek,positive
+bacanak,positive
+güzel olmak,positive
+iyi huyluluk,positive
+candan yürekten,positive
+yağlı,positive
+külyutmaz,positive
+umut beslemek,positive
+verimlilik,positive
+cömert davranmak,positive
+murada ermek,positive
+gönlünden kopmak,positive
+yeterli,positive
+kerli ferli,positive
+murat almak,positive
+kör kurttan bile vazgeçmemek,positive
+kerem,positive
+sükse yapmak,positive
+miras,positive
+ululuk,positive
+tezevvüç,positive
+uğur,positive
+bilginleşmek,positive
+etek öpmek,positive
+kerim,positive
+iyilikbilirlik,positive
+bir taşla iki kuş vurmak,positive
+ibra etmek,positive
+güler yüzlü,positive
+aklını kullanmak,positive
+tanınmış,positive
+meymenetli,positive
+çelikleşmek,positive
+tamı tamına,positive
+ilaç gibi gelmek,positive
+bolluk,positive
+eğlenti,positive
+gani gönüllü,positive
+heybet,positive
+netleşmek,positive
+destekleyici,positive
+başarılmak,positive
+iki dirhem bir çekirdek,positive
+dört gözle bakmak,positive
+vatanperverlik,positive
+eyvallah etmemek,positive
+nam almak,positive
+özgürcesine,positive
+spesiyalite,positive
+göz alıcı,positive
+destan yazmak,positive
+yakışık,positive
+tam tamına,positive
+rahatlıkla,positive
+izanlı,positive
+affetme,positive
+hoş görmek,positive
+göbek havası,positive
+eğlence,positive
+doğrucu,positive
+huzur vermek,positive
+doyurucu bulmak,positive
+âlicenaplık,positive
+eğleniş,positive
+başta taşımak,positive
+düzenli,positive
+kanaat getirmek,positive
+tıkırında gitmek,positive
+mühür gözlü,positive
+centilmen,positive
+bağışlanma,positive
+mükemmel,positive
+mehel,positive
+yararlık,positive
+göz alıcılık,positive
+mehdi,positive
+davayı kazanmak,positive
+inciler döktürmek,positive
+tebrik,positive
+ahi,positive
+ahu,positive
+tıpkısının aynısı,positive
+zinde tutmak,positive
+toplumsal dayanışma,positive
+sunmak,positive
+eğlenmek,positive
+nafi,positive
+etrafında dört dönmek,positive
+alp,positive
+yakışıklı,positive
+umut etmek,positive
+ana,positive
+akıl küpü,positive
+kabul görmek,positive
+yapmacıksız,positive
+naif,positive
+nail,positive
+açık çek,positive
+gerçeklemek,positive
+kârlı iş,positive
+çatal yürekli,positive
+arz,positive
+parmaklarını yemek,positive
+arı,positive
+masrafsız,positive
+âşk,positive
+gailesiz,positive
+yiğitlenme,positive
+göze girmek,positive
+faydalı,positive
+kısmeti açılmak,positive
+omuzda taşımak,positive
+tekmil,positive
+taş çıkarmak,positive
+nimet,positive
+bek,positive
+bet,positive
+ayıpsız,positive
+önem,positive
+alaka,positive
+muhatarasız,positive
+rağbet görmek,positive
+aklına yatmak,positive
+kutsiyet,positive
+ruh vermek,positive
+felekten bir gün çalmak,positive
+saygı beslemek,positive
+biçilmiş kaftan,positive
+mübarek,positive
+varlıklı,positive
+muvafık bulmak,positive
+çıtı pıtı,positive
+ileri geçmek,positive
+gevrek,positive
+can,positive
+yüzü yerde,positive
+aydın,positive
+kafasını dinlendirmek,positive
+güvenli,positive
+alçak gönüllülük,positive
+güvenme,positive
+mükâfatını görmek,positive
+rahata kavuşmak,positive
+göz kamaştırmak,positive
+cin,positive
+güveniş,positive
+denk gelmek,positive
+bakımlı erkek,positive
+becerikli,positive
+dimdik durmak,positive
+ağzına baktırmak,positive
+mucizeli,positive
+şeytan çekici,positive
+müstefit olmak,positive
+evcilleşmek,positive
+birini temize çıkartmak,positive
+mefahir,positive
+behişt,positive
+özden,positive
+göz nuru,positive
+komiklik,positive
+ağabeylik etmek,positive
+mahirane,positive
+sulh olmak,positive
+kabuğunu kırmak,positive
+eşiğini atlamak,positive
+bilgince,positive
+teshil,positive
+kanatlanmak,positive
+müsmir,positive
+inanmak,positive
+fidan gibi,positive
+malumatlı,positive
+koltuklamak,positive
+laftan anlamak,positive
+hayır hasenat,positive
+hanedan,positive
+tünelin sonunda ışık görünmek,positive
+sefa geldiniz,positive
+açık elli,positive
+inayette bulunmak,positive
+umut bırakmak,positive
+savuşma,positive
+faydasını görmek,positive
+sıkı fıkı,positive
+halletmek,positive
+necip,positive
+coşmak,positive
+canciğer kuzu sarması,positive
+kemeri dolu olmak,positive
+kafayı dinlemek,positive
+hak vermek,positive
+sakince,positive
+kazançlı,positive
+konukseverlik,positive
+ödüllendirmek,positive
+gülümsemek,positive
+eda,positive
+sığınak,positive
+ümit kapısı,positive
+üzerine toz kondurmamak,positive
+lige çıkmak,positive
+eli yüzü temiz,positive
+hayırlı,positive
+fevkalbeşer,positive
+gönendirme,positive
+manken gibi,positive
+çın,positive
+kıpır kıpır,positive
+rüşdünü ispat etmek,positive
+evcilleşme,positive
+nefis,positive
+kankızıl,positive
+nefha,positive
+iş birliği,positive
+çekmek,positive
+bir şeyi adam etmek,positive
+halisane,positive
+gönlü gani,positive
+takdis etmek,positive
+yol bulmak,positive
+arka arkaya vermek,positive
+keyif,positive
+yedikleri içtikleri ayrı gitmemek,positive
+kapıları açık tutmak,positive
+kanaatkar,positive
+dezenfekte etmek,positive
+görgülüce,positive
+evç,positive
+hüner göstermek,positive
+gözü gönlü tok,positive
+iyicil,positive
+kıymetiharbiye,positive
+ömür,positive
+eme yaramak,positive
+açmak,positive
+melek,positive
+beklenmedik,positive
+sarahatle,positive
+fer,positive
+görmek,positive
+kapıyı açmak,positive
+çağ atlamak,positive
+helalzade,positive
+barışçıl,positive
+ilerlemek,positive
+gençleştirmek,positive
+ödül almak,positive
+hazımlı,positive
+babayani,positive
+münasebetli,positive
+biperva,positive
+azatlı,positive
+selika,positive
+stabilize,positive
+tebrik mesajı,positive
+tutkun,positive
+çekici olmak,positive
+ahbapça,positive
+gülleri yarılmak,positive
+elektrik,positive
+mütehassis,positive
+zekavet,positive
+tenzih,positive
+nurudidem,positive
+dev adımlarla ilerlemek,positive
+şiveli,positive
+müferrih,positive
+ruhunu şad etmek,positive
+kredibilite,positive
+eşi benzeri olmamak,positive
+mucizevi,positive
+dudak dudağa kalmak,positive
+yüreği yağ bağlamak,positive
+babaevi,positive
+şakalaşmak,positive
+sivilize,positive
+mucizevî,positive
+affeylemek,positive
+emin,positive
+delikanlı,positive
+dirlikçi,positive
+açıkyüreklilik,positive
+zilsiz oynamak,positive
+söz ehli,positive
+tutma,positive
+aklı başında,positive
+masume,positive
+maşallah,positive
+fennini kapmak,positive
+merhem olmak,positive
+kanıtlı,positive
+tecanüs,positive
+zirveye çıkmak,positive
+anlayışlı,positive
+sterilize etmek,positive
+ganimet,positive
+eğlendirici,positive
+kanını kaynatmak,positive
+elleri dert görmesin,positive
+samimi,positive
+alnının teri ile kazanmak,positive
+bilici,positive
+karıncayı bile incitmemek,positive
+düzeltmek,positive
+görklü,positive
+kalburüstü,positive
+hah,positive
+hak,positive
+has,positive
+haz,positive
+yoluna koymak,positive
+eli açıklık,positive
+keyfini çıkarmak,positive
+tadında bırakmak,positive
+zahmetine değmek,positive
+gülümser,positive
+keyfine diyecek olmamak,positive
+onarmak,positive
+bütünlemek,positive
+küşat,positive
+abat,positive
+rabıtalı,positive
+tutulma,positive
+yakınlık göstermek,positive
+hakiki,positive
+soyluluk,positive
+yükseltmek,positive
+arıtmak,positive
+kutsallaşmak,positive
+nakşetmek,positive
+ihtiyatlıca,positive
+ismet,positive
+vatanperver,positive
+hayır,positive
+tatlıca,positive
+armağan,positive
+hoşsohbet,positive
+azat eylemek,positive
+hoşnut etmek,positive
+arkasını sıvamak,positive
+itinalıca,positive
+hidayete ermek,positive
+tamamiyet,positive
+popüler olmak,positive
+paçayı kurtarmak,positive
+aşk,positive
+hayatını yaşamak,positive
+hürmetlice,positive
+gönül borcu,positive
+yâren,positive
+akarı kokarı olmamak,positive
+kabahatsiz,positive
+faziletkâr,positive
+kafası çalışmak,positive
+öpüş,positive
+acar,positive
+kendi halinde,positive
+psikolojik,positive
+mağfur,positive
+babacık,positive
+iti,positive
+dünyalar birinin olmak,positive
+tane tane söylemek,positive
+kutlu olsun,positive
+iyi,positive
+temkinli,positive
+fedakârlık,positive
+arasını bulmak,positive
+devlet,positive
+eşi benzeri yok,positive
+rağbet,positive
+kâm almak,positive
+etkin,positive
+bereketli ola,positive
+terakki etmek,positive
+yordamlı,positive
+elini vicdanına koymak,positive
+deliye dönmek,positive
+kucağına oturmak,positive
+karabiber,positive
+muvazeneli,positive
+elleşmek,positive
+ahiretini yapmak,positive
+kubaşmak,positive
+dengeye getirmek,positive
+efendi efendi,positive
+geniş çaplı,positive
+hokka gibi oturmak,positive
+kar etmek,positive
+rafine,positive
+mertçe,positive
+ilahlaşmak,positive
+adil,positive
+kafasını kullanmak,positive
+kırıtma,positive
+bollanma,positive
+övüntü,positive
+gönenmek,positive
+teşerrüf etmek,positive
+zarifane,positive
+meymenet,positive
+bezeme,positive
+kam,positive
+yağ yapmak,positive
+pırlanta gibi,positive
+eteği belinde,positive
+gelmek,positive
+sahabetçi çıkmak,positive
+pürneşe,positive
+özgünlük,positive
+kip,positive
+gülünç,positive
+orijinallik,positive
+hoş geldiniz,positive
+ağırlığını ortaya koymak,positive
+gelecek vaad eden,positive
+övünek,positive
+kalem kaşlı,positive
+koyvermek,positive
+piliç,positive
+babaçko,positive
+ferah tutmak,positive
+kut,positive
+mâniasız,positive
+kanuna uygunluk,positive
+kadir olmak,positive
+açık,positive
+gelgel,positive
+şansı yaver gitmek,positive
+özgün,positive
+özgür,positive
+mukayyet olmak,positive
+el emeği göz nuru,positive
+kılına halel gelmemek,positive
+atılgan,positive
+şenlendirmek,positive
+nüfuzkâr,positive
+mütemayil,positive
+tek geçmek,positive
+yiğitlendirme,positive
+arılama,positive
+fındık kurdu gibi,positive
+kavalye,positive
+ergi,positive
+seyyah,positive
+erim,positive
+güleç,positive
+itidal sahibi,positive
+ballı börek olmak,positive
+kılı kılına,positive
+karlı,positive
+vatandaşlığa almak,positive
+gözlerinin içi gülmek,positive
+pehpehlemek,positive
+dengeli kılmak,positive
+tadına doyum olmamak,positive
+kalıt,positive
+sağlıcakla kalın,positive
+zariflik,positive
+hevesini almak,positive
+sağlıklı olma,positive
+elçilik etmek,positive
+olağanüstülük,positive
+nekre,positive
+keyfi yolunda,positive
+nezahet,positive
+karar,positive
+karizmatik,positive
+abideleşmek,positive
+çalımlı,positive
+hür,positive
+gönlü akmak,positive
+pirüpak,positive
+kurtarma,positive
+esen,positive
+mis,positive
+selaset,positive
+asilzadelik,positive
+iflah,positive
+yetenekli,positive
+elinize sağlık,positive
+gülüp söylemek,positive
+agah,positive
+münasip görmek,positive
+destekleme,positive
+haminne,positive
+kendini toplamak,positive
+faziletkar,positive
+medar olmak,positive
+kaşarlanmak,positive
+takriz,positive
+mut,positive
+itibarlı,positive
+sulhperver,positive
+tat kazanmak,positive
+aşk yapmak,positive
+parmağının ucunda çevirmek,positive
+silahsızlanma,positive
+berceste,positive
+geri almak,positive
+umurgörmüş,positive
+susuzluğunu gidermek,positive
+makine gibi adam,positive
+sağlamlamak,positive
+tapıklamak,positive
+tedarikte bulunmak,positive
+estetik,positive
+güzelleşmek,positive
+kurdunu dökmek,positive
+optimist,positive
+coşturucu,positive
+işi tıkırında olmak,positive
+özel,positive
+net,positive
+optimizm,positive
+eteklemek,positive
+ince düşünmek,positive
+âşıktaşlık etmek,positive
+azamet,positive
+sıcacık,positive
+metin,positive
+gönül okşayıcı,positive
+etik,positive
+zatıalileri,positive
+akıllılaşmak,positive
+kanık,positive
+yumuşak,positive
+mahir,positive
+gönençli,positive
+can yoldaşı,positive
+akıl öğretmek,positive
+katıla katıla gülmek,positive
+baldudaklı,positive
+dengeyi sağlamak,positive
+yağa bala batırmak,positive
+ıslahat,positive
+gönül ferahlığı,positive
+dinceltmek,positive
+toleranslılık,positive
+idaresini bilmek,positive
+bülbül gibi konuşmak,positive
+mütelezziz olmak,positive
+sohbet ustası,positive
+kurtarmacı,positive
+sağ esen,positive
+ulaşabilmek,positive
+leziz,positive
+iştahlı,positive
+kâm,positive
+cana minnet saymak,positive
+nezafet,positive
+kültürlenme,positive
+koltuk değneği,positive
+göz doldurmak,positive
+ole,positive
+ayarlı,positive
+coşuntu,positive
+aklını devşirmek,positive
+tefeül,positive
+öngörülü,positive
+tebrik etmek,positive
+huluslar çakmak,positive
+tırmanmak,positive
+tebrik kartı,positive
+toplumsal bütünleşme,positive
+sağlıcakla,positive
+takdirname,positive
+sevişme,positive
+rüşt,positive
+ahbap,positive
+engin gönüllü,positive
+uzlaşmaya varmak,positive
+hayatta kalmak,positive
+modernizasyon,positive
+mesut,positive
+fedakarca,positive
+mutlu etmek,positive
+kâr getirmek,positive
+fütuhatçı,positive
+uyumlanmak,positive
+kusura kalmamak,positive
+içimli,positive
+işi iş olmak,positive
+tok tok yürümek,positive
+izazuikram,positive
+pak,positive
+özendirmek,positive
+hava iyi esmek,positive
+şinanay,positive
+neşeli,positive
+tiril tiril,positive
+ululamak,positive
+pek,positive
+silahsızlanmak,positive
+sağlama almak,positive
+zenginleşme,positive
+ümitlilik,positive
+üstüne basmak,positive
+yaraşık almak,positive
+koçak,positive
+koltuk vermek,positive
+görkemli,positive
+pir,positive
+arı sili,positive
+umut vadetmek,positive
+kazanmak,positive
+masumane,positive
+ahenk,positive
+sohbet etmek,positive
+dalyan gibi,positive
+yüzüne kan gelmek,positive
+şeytanın bacağını kırmak,positive
+gözü gönlü açılmak,positive
+görüş birliği içinde olmak,positive
+himmet etmek,positive
+derya gibi,positive
+disiplinlilik,positive
+şipşirin,positive
+cennete çevirmek,positive
+semahat,positive
+kendi keyfine gitmek,positive
+örnek olmak,positive
+dinamik,positive
+gülmek,positive
+gönül birliği,positive
+gıcır,positive
+efendiden bir adam,positive
+gürültüsüz patırtısız,positive
+ferahlatıcı,positive
+mıknatıs,positive
+uygun bulmak,positive
+agâh,positive
+puan kazanmak,positive
+maskot,positive
+hayranlıkla bakmak,positive
+bedirlenmek,positive
+akil,positive
+alkış toplamak,positive
+huzur bulmak,positive
+öksüz anası,positive
+samimiyet,positive
+şenlik,positive
+kahkaha tufanı kopmak,positive
+keyfetmek,positive
+muavenet,positive
+nezaket,positive
+dolgun maaş,positive
+gücü yetmek,positive
+akva,positive
+karınca kaderince,positive
+donanma gecesi,positive
+sebeplenmek,positive
+meyil,positive
+jest,positive
+kanatlandırmak,positive
+latifeci,positive
+selamete çıkmak,positive
+sinirleri kuvvetli,positive
+ağzından bal akmak,positive
+garanti etmek,positive
+onurlandırmak,positive
+metîn,positive
+tatmin,positive
+alem,positive
+masumcuk,positive
+kahkaha atmak,positive
+alim,positive
+kibarlık,positive
+karışanı görüşeni olmamak,positive
+ne gözle bakmak,positive
+aslanca,positive
+bağdaşmak,positive
+sözünü tutmak,positive
+dostane,positive
+saf,positive
+makul,positive
+kurtarış,positive
+harikuladelik,positive
+iyiniyet,positive
+mukavvi,positive
+müsamaha,positive
+sağ,positive
+şefik,positive
+vergili,positive
+şölen,positive
+eli işe yatmak,positive
+kurtarım,positive
+akıllıcasına,positive
+uzmanlaşmak,positive
+umut vermek,positive
+derdine deva bulmak,positive
+aman,positive
+som,positive
+soy,positive
+usta elinden çıkmak,positive
+mukavim,positive
+sıkı ağızlı,positive
+apaçıklık,positive
+iyileşmek,positive
+yasaya uygunluk,positive
+özendirme,positive
+şirin,positive
+sığmak,positive
+söz dinlemek,positive
+mertlik,positive
+kıymet vermek,positive
+gülüşmek,positive
+amor,positive
+başını dik tutmak,positive
+canının içine sokacağı gelmek,positive
+aferin,positive
+aferin almak,positive
+sırra ermek,positive
+tam,positive
+safi,positive
+bonkörleşmek,positive
+tat,positive
+cazipli,positive
+safa,positive
+erişkinlik,positive
+safâ,positive
+rahat olmak,positive
+iyilikçi,positive
+ağırlanmak,positive
+afiyet bulmak,positive
+inayet eylemek,positive
+celadet,positive
+ağzından inci saçmak,positive
+lort gibi,positive
+fırsatını düşürmek,positive
+sava,positive
+tok,positive
+ateşlendirmek,positive
+teskin etmek,positive
+koklaşmak,positive
+samimiyetle,positive
+entellektüel,positive
+cesurane,positive
+eliyle koymuş gibi,positive
+dünya birinin olmak,positive
+revnak,positive
+renk katmak,positive
+bayramlık,positive
+böceksiz,positive
+saye,positive
+coşkunca,positive
+usta olmak,positive
+selametle,positive
+müstefit,positive
+yolu açmak,positive
+uysalca,positive
+iyilik bilmek,positive
+endamlı,positive
+tılsım,positive
+iltifat etmek,positive
+sözünü bilmek,positive
+olur almak,positive
+azametli,positive
+kurtuluşlu,positive
+dünyalara değişmemek,positive
+müyesser olmak,positive
+allamak pullamak,positive
+bunsuz,positive
+gamsız,positive
+hürmet etmek,positive
+zevk almak,positive
+hâlden anlamak,positive
+pek canlı,positive
+saltanat sürmek,positive
+latif,positive
+ongun,positive
+himayesine almak,positive
+hatır gönül tanımak,positive
+tepeden inme,positive
+vusul,positive
+zevk etmek,positive
+hüner,positive
+güvenç,positive
+temiz kalpli,positive
+teşne,positive
+doğrultmak,positive
+rağbet kazanmak,positive
+affolunmak,positive
+bayındırlaşmak,positive
+erginlik,positive
+ferahlık duymak,positive
+yükselme,positive
+dostlaşmak,positive
+barışık,positive
+haşmetli,positive
+teşci,positive
+şerefyap,positive
+bilinçli,positive
+cömert,positive
+övünç çizelgesi,positive
+pehpeh,positive
+taptaze,positive
+baştacı,positive
+şeref,positive
+katkıda bulunmak,positive
+selamet,positive
+karakterli,positive
+kanı ısınmak,positive
+sevgi beslemek,positive
+sıralama,positive
+rahatlık,positive
+ziyafeti çekmek,positive
+ferahlatma,positive
+aklı gitmek,positive
+bahtiyar olmak,positive
+sakıngan,positive
+çiçek gibi,positive
+laflamak,positive
+allah tamamına eriştirsin,positive
+bigünah,positive
+insaniyet,positive
+hayhay,positive
+başına taç etmek,positive
+telaşsız,positive
+pürsıhhat,positive
+aşı yapmak,positive
+terennüm etmek,positive
+hasarsızca,positive
+baba adam,positive
+arka olmak,positive
+akıllanış,positive
+altın adam,positive
+kalifiye işçi,positive
+ince eğirip sık dokumak,positive
+rekor kırmak,positive
+elini uzatmak,positive
+yetinmek,positive
+hüküm,positive
+dörtköşe,positive
+ayağı yerden kesilmek,positive
+lütufkârlık,positive
+yerine getirmek,positive
+temkinlice,positive
+iyiliksever,positive
+kenet gibi yapışmak,positive
+hafiflemek,positive
+tasasız,positive
+paskallık,positive
+yerinde bulmak,positive
+vefakar,positive
+kefeni yırtmak,positive
+elemsiz,positive
+rağbetli,positive
+tedavi etmek,positive
+ümitli olmak,positive
+yorgunluk atmak,positive
+süs,positive
+iftihara geçmek,positive
+sefa,positive
+kadirbilirlik,positive
+saltanatlı,positive
+muattar,positive
+heyecan vermek,positive
+barışçı,positive
+kalıbı kıyafeti yerinde olmak,positive
+gelecek vaadeden,positive
+derviş,positive
+sefâ,positive
+birincil grup,positive
+başarılı,positive
+memnuniyetle,positive
+şerif,positive
+cazibeli,positive
+pratik,positive
+çağını aşmak,positive
+kanı sıcak,positive
+şen şatır,positive
+kayıt,positive
+turu geçmek,positive
+zevklenmek,positive
+sevi,positive
+seza,positive
+yıldızlaşmak,positive
+emin olmak,positive
+eve dönüş,positive
+nasihat vermek,positive
+sezâ,positive
+onmak,positive
+hamarat,positive
+lastik gibi,positive
+mübarek olsun,positive
+tuttuğunu koparmak,positive
+variyetli,positive
+gönüllüce,positive
+avantür,positive
+şeker,positive
+övmek,positive
+çağdaşlaşma,positive
+tüm,positive
+yar,positive
+kalıplı,positive
+rahatça,positive
+içtenlik,positive
+hesaplı,positive
+tatlılık,positive
+mübârek,positive
+yer,positive
+alım,positive
+alakasını toplamak,positive
+çelebi,positive
+eli ayağı,positive
+kanat açmak,positive
+hoşnut,positive
+tavsiyede bulunmak,positive
+iyilikle,positive
+mahfazalı,positive
+paraya para dememek,positive
+bebek gibi,positive
+müsamahakarlık,positive
+kedi gibi dört ayak üzerine düşmek,positive
+antant kalmak,positive
+yol göstermek,positive
+abat olmak,positive
+karın doyurmak,positive
+asil,positive
+düğün bayram etmek,positive
+insaflı çıkmak,positive
+güleğen,positive
+anlayış göstermek,positive
+ahlak,positive
+karıncaincitmez,positive
+güldürücü,positive
+tasvip,positive
+hamaset,positive
+faal,positive
+şevke getirmek,positive
+huri gibi,positive
+nüfuzkar,positive
+bileğinde altın bileziği olmak,positive
+şevkli,positive
+toparlamak,positive
+şad olmak,positive
+şevket,positive
+yaraşıklı,positive
+müsait,positive
+söyleşme,positive
+hoşbeş etmek,positive
+sınav vermek,positive
+ocağını yeşertmek,positive
+mükafat,positive
+faik,positive
+dertsiz,positive
+albenisi olmak,positive
+teşerrüf,positive
+ferasetli,positive
+borçsuz,positive
+var ol,positive
+maalmemnuniye,positive
+cennete dönmek,positive
+temennide bulunmak,positive
+teveccüh,positive
+makbule geçmek,positive
+kolaylaşmak,positive
+barış yapmak,positive
+hükmü geçmek,positive
+affedilme,positive
+atik,positive
+parfüm,positive
+hatırını saymak,positive
+desteklemek,positive
+içli dışlı olmak,positive
+upuygun,positive
+âdemiyet,positive
+akça pakça,positive
+halavet,positive
+pekçe,positive
+ahlâk,positive
+köşeyi dönmek,positive
+iliği kemiği ısınmak,positive
+ayrısı gayrısı olmamak,positive
+anıt,positive
+istinat,positive
+siyakusibak,positive
+demir yumruk,positive
+kerâmet,positive
+ferahlık vermek,positive
+zihin açmak,positive
+sponsor,positive
+müjde koşturmak,positive
+hoşluk,positive
+doğru dürüst,positive
+nurani,positive
+hayırsever,positive
+nezih,positive
+sahip çıkmak,positive
+kudretli,positive
+masumluk,positive
+emniyet,positive
+mukavemetli,positive
+verimkar,positive
+esrime,positive
+yerini beğenmek,positive
+sahici,positive
+popülarite kazanmak,positive
+imeceye girmek,positive
+masum,positive
+ağzı lakırtı yapmak,positive
+nefsine hakim olma,positive
+sili,positive
+nimetşinas,positive
+mutlanmak,positive
+yakınlık görmek,positive
+sözünü yabana atmamak,positive
+merhaba,positive
+güzel,positive
+meziyetli,positive
+dişisel,positive
+aslanlaşmak,positive
+kotarmak,positive
+günlük güneşlik,positive
+muttasıf,positive
+dalkavukluk etmek,positive
+nevaziş,positive
+arz etmek,positive
+tensip,positive
+tensik,positive
+fındıkkıran,positive
+uçkuruna sağlam olmak,positive
+sudan ucuz,positive
+müterakki,positive
+doğal,positive
+şereflendirme,positive
+nasipli,positive
+hatırını hoş etmek,positive
+takdim etmek,positive
+şefkatli,positive
+havasını bulmak,positive
+muhabbet etmek,positive
+çetrefilsiz,positive
+okşamalık,positive
+billur,positive
+yâr,positive
+mültefit,positive
+dimdik,positive
+doğru,positive
+anlamak,positive
+burcu,positive
+insaflı,positive
+zengin olmak,positive
+on parmağında on hüner olmak,positive
+içi rahat etmek,positive
+gülücük,positive
+el işi göz nuru,positive
+demir bilek,positive
+savuşmak,positive
+kıymete binmek,positive
+bilmek,positive
+müsamahakar,positive
+ayakta tutmak,positive
+yoldaş,positive
+nam salmak,positive
+öğütte bulunmak,positive
+güçlükleri yenmek,positive
+geçimli,positive
+yiğitlik,positive
+imdada yetişmek,positive
+ruhu okşamak,positive
+duasını almak,positive
+yüz aklığı göstermek,positive
+parlak,positive
+ciğerpare,positive
+erkekçe,positive
+yerini tutmak,positive
+temize çıkmak,positive
+ihya olmak,positive
+müzeyyen,positive
+anlaklı,positive
+anlata anlata bitirememek,positive
+insafa gelmek,positive
+yerinde,positive
+ahım şahım,positive
+münasebet almak,positive
+gözüne girmek,positive
+mesut olmak,positive
+uğurlar olsun,positive
+içine sokacağı gelmek,positive
+komik,positive
+gönlü olmak,positive
+iyilik,positive
+serbestlemek,positive
+ortam yaratmak,positive
+açık açık,positive
+giyimli kuşamlı,positive
+memnun olmak,positive
+kadın kadıncık,positive
+özgürlük,positive
+ummak,positive
+mutluca,positive
+tenzilat,positive
+elinden iyi iş gelmek,positive
+teşvik etmek,positive
+önlemek,positive
+geçinim,positive
+zevkten dörtköşe olmak,positive
+çelebileşmek,positive
+sağ selamet,positive
+mehabet,positive
+mefharet,positive
+umut uyanmak,positive
+refik,positive
+ilgi çekici,positive
+yukarı,positive
+güzide,positive
+cesurluk,positive
+ayna,positive
+layık,positive
+kemale ermek,positive
+iltifat,positive
+davetkâr,positive
+iskonto,positive
+iyi gelmek,positive
+hava tebdili,positive
+arkası pek,positive
+narin,positive
+büyüklük,positive
+lekesiz,positive
+verimkâr,positive
+intizam,positive
+mağfiret etmek,positive
+latifçe,positive
+bir tanem,positive
+dizmek,positive
+iyi gitmek,positive
+azatlık,positive
+azat,positive
+efendicesine,positive
+hamiyetperverlik,positive
+bayram çocuğu,positive
+ortama ayak uydurmak,positive
+methini duymak,positive
+hüsün,positive
+ince eleyip sık dokumak,positive
+zeyrek,positive
+güvenilme,positive
+baş tacı,positive
+karaktersizlik,positive
+muvaffak,positive
+ferih fahur,positive
+allanıp pullanmak,positive
+barışmak,positive
+insan evladı,positive
+güvenilir,positive
+dernek,positive
+beraat etmek,positive
+ehlîleşme,positive
+serbestçe,positive
+kolay,positive
+temin etmek,positive
+cesurca,positive
+ayakları yere değmemek,positive
+keresteli,positive
+sağgörü,positive
+devrim,positive
+ışık,positive
+diri kalmak,positive
+derece almak,positive
+ümit etmek,positive
+müdellel,positive
+doygunluk,positive
+aşı olmak,positive
+vicdanlı,positive
+buluşma,positive
+gönül rızası ile,positive
+eyvallahı olmamak,positive
+yol iz bilmek,positive
+etekleri çalpara çalmak,positive
+karıncaezmez,positive
+keyfi tıkırında,positive
+karagözlük etmek,positive
+aşı vurmak,positive
+nötralizm,positive
+"çiçeği burnunda , çamuru karnında",positive
+dünyayı anlamak,positive
+zeyreklik,positive
+muammer olmak,positive
+iktifa etmek,positive
+eşeğini sağlam kazığa bağlamak,positive
+yüzünü güldürmek,positive
+takdis,positive
+takdim,positive
+takdir,positive
+müsamahakâr,positive
+onurlanmak,positive
+safiyet,positive
+cömertlik,positive
+nurlanmak,positive
+insicamlı,positive
+azize,positive
+akilane,positive
+ana yüreği,positive
+baş tacı etmek,positive
+çalgılı çağanaklı,positive
+alnından öpmek,positive
+şanslı,positive
+helalinden,positive
+sevinmek,positive
+necabet,positive
+teknik bilgi,positive
+el uzluğu,positive
+övücü,positive
+güngörmüş,positive
+sevinçten uçmak,positive
+boğazını sevmek,positive
+minnettar kalmak,positive
+kafalı,positive
+kazasızca,positive
+diline sağlam olmak,positive
+sigortalı,positive
+mutlulanmak,positive
+sevincinden ağzı kulaklarına varmak,positive
+minnettarlık,positive
+esen kalmak,positive
+ıslah,positive
+sadakat,positive
+mail olmak,positive
+güven beslemek,positive
+fedakarlık,positive
+nefis izzeti,positive
+müstehap,positive
+rüya gibi,positive
+babayiğitçe,positive
+cennet öküzü,positive
+aklıselim,positive
+müessir,positive
+nar gibi,positive
+huyuna suyuna gitmek,positive
+müşerref olmak,positive
+meclisara,positive
+ahbap çavuş ilişkisi,positive
+cesaretlendirme,positive
+mütekâmil,positive
+teşekkür etmek,positive
+vadetmek,positive
+gözü kamaşmak,positive
+ikram,positive
+makbul,positive
+dünyayı tozpembe görmek,positive
+kanaatkâr,positive
+bağışık,positive
+"çamuru karnında , çiçeği burnunda",positive
+mükemmelleşmek,positive
+görgülü,positive
+işin kurdu olmak,positive
+adamlık,positive
+allameicihan olmak,positive
+kişilikli,positive
+gösteriş,positive
+adilane,positive
+tolerans gösterme,positive
+natıka,positive
+model,positive
+mutena,positive
+tenvir,positive
+ehlileştirme,positive
+borçsuz harçsız,positive
+gepegencecik,positive
+vefakâr,positive
+intifa,positive
+yılmaz,positive
+karlı iş,positive
+tam sırası,positive
+maharetlilik,positive
+kutsallık,positive
+karagözlük,positive
+nasip olmak,positive
+zil takıp oynamak,positive
+özleşmek,positive
+yanağından kan damlamak,positive
+cilalamak,positive
+eline geçmek,positive
+ohlamak,positive
+yüzünün akı ile çıkmak,positive
+abıru,positive
+kapılmak,positive
+ucuzlamak,positive
+olur vermek,positive
+bezeklemek,positive
+inkılâp,positive
