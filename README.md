@@ -8,4 +8,4 @@ How to use positive and negative words list in NodeXL:
 3. Copy the content of negative.txt into -> List 2: Negative.
 4. Then click OK
 
-For Turkish stopwords, we can use [stopwords-tr](https://github.com/stopwords-iso/stopwords-tr/blob/master/stopwords-tr.txt) taken from [stopwords-iso](https://github.com/stopwords-iso/stopwords-tr).
+For Turkish stopwords, we can use [merged_swnettrandstopwords-tr](https://github.com/dwicak/TurkishSentiment-Words/blob/main/merged_swnettrandstopwords-tr.txt) which is a combination of [SWNetTR stopwords](https://github.com/swnettr/SWNetTR/blob/master/ref.StopWordListTR.csv) and [stopwords-tr](https://github.com/stopwords-iso/stopwords-tr/blob/master/stopwords-tr.txt) taken from stopwords-iso.
