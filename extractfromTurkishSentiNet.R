@@ -1,3 +1,4 @@
+# This code is used to extract positive and negative word lists from TurkishSentiNet into a text file
 # Load the xml2, readr, and dplyr package. If you don't have the package, install it first
 library(xml2)
 library(readr)
@@ -22,3 +23,11 @@ df <- data.frame(word = words, sentiment = sentiments)
 # Write the positive and negative words to separate CSV files
 write_csv(df[df$sentiment == "positive", ], "positive.csv")
 write_csv(df[df$sentiment == "negative", ], "negative.csv")
+
+# Read the positive and negative CSV files
+positive_words <- read_csv("positive.csv")
+negative_words <- read_csv("negative.csv")
+
+# Extract the word column and write it to separate text files
+write_lines(positive_words$word, "positive.txt")
+write_lines(negative_words$word, "negative.txt")
