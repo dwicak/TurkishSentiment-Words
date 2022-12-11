@@ -29,4 +29,4 @@ words <- unlist(strsplit(merged_unique_text, "\\s+"))
 sorted_words <- sort(words)
 
 # Write text into text file
-writeLines(sorted_words, "merged_swnettrandstopwords-tr.txt")
+writeLines(sorted_words, "TurkishSentiment-Stopwords.txt")
