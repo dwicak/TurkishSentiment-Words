@@ -21,18 +21,32 @@ sentiments <- ifelse(as.numeric(pscores) > 0, "positive",
 # Create a data frame with the words and sentiments
 df <- data.frame(word = words, sentiment = sentiments)
 
-# Write the positive and negative words to separate text files
-write_lines(df[df$sentiment == "positive", ], "turkishsentinet-positive.txt")
-write_lines(df[df$sentiment == "negative", ], "turkishsentinet-negative.txt")
+# Write the positive and negative words to separate CSV files
+write_csv(df[df$sentiment == "positive", ], "positive.csv")
+write_csv(df[df$sentiment == "negative", ], "negative.csv")
+write_csv(df[df$sentiment == "neutral", ], "neutral.csv")
+
+# Read the positive and negative CSV files
+positive_words <- read_csv("positive.csv")
+negative_words <- read_csv("negative.csv")
+neutral_words <- read_csv("neutral.csv")
+
+# Extract the word column and write it to separate text files
+write_lines(positive_words$word, "positive.txt")
+write_lines(negative_words$word, "negative.txt")
+write_lines(neutral_words$word, "neutral.txt")
 
 # read in the text file
-text1 <- readLines("turkishsentinet-positive.txt")
-text2 <- readLines("turkishsentinet-negative.txt")
+text1 <- readLines("positive.txt")
+text2 <- readLines("negative.txt")
+text3 <- readLines("neutral.txt")
 
 # Add quotation marks to each line
 text_with_quotes1 <- paste0('"', text1, '"')
 text_with_quotes2 <- paste0('"', text2, '"')
+text_with_quotes3 <- paste0('"', text3, '"')
 
 # Save the data to a text file
 writeLines(text_with_quotes1, "turkishsentinet-positive.txt")
 writeLines(text_with_quotes2, "turkishsentinet-negative.txt")
+writeLines(text_with_quotes3, "turkishsentinet-neutral.txt")
